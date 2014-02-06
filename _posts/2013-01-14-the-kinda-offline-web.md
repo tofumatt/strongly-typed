@@ -83,4 +83,4 @@ The reality is that many apps need network access *some of the time*, but you ha
 
 These were the particular gotchas I experienced during my time getting Face Value to work offline.
 
-I'm currently working on a podcasts app for FirefoxOS and Firefox Desktop that stores large blobs of binary data. Because of Appcache's fragile nature and localStorage's limited storage, I used IndexedDB to store podcast files. I'll talk about my experiences with IndexedDB (and the wrapper around its API I'm working on) in an upcoming post.
+I'm currently working on a [podcasts app](https://github.com/mozilla/high-fidelity) for FirefoxOS and Firefox Desktop that stores large blobs of binary data. Because of Appcache's fragile nature and localStorage's limited storage, I used IndexedDB to store podcast files. I'll talk about my experiences with IndexedDB (and the wrapper around its API I'm working on) in an upcoming post.
