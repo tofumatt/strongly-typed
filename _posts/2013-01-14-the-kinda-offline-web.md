@@ -6,7 +6,7 @@ tags: [code, development, offline]
 image:
   feature: storage-shed-hdr.jpg
   credit: katsrcool
-  creditlink: http://www.flickr.com/photos/40775084@N05/9475526152/in/photolist-frjxNy-8PcqQF-2wEWJ-251xCY-d1mszJ-8NjZAb-b9jncV-5hnrEB-5snxDU-4Cm1GX-4Cm1Ma-4CqinW-4Cm1xT-4Cqi6G-4Cm1Ar-4Cm1xa-4Cm1Bk-4Cqid3-4CqibG-4kWxAg-cr4qjs-djvHqh-djvHZ4-4CbwPf-4CbwyA-4C7ere-4C7epr-5meSBF-5mj9Db-5mj9sU-5meSpR-ejB73M-6MCfPy-4LxBjr-k7dz3-7zWzb-baqnDt-7N7hJV-6aRQXp-7xx3pt-4Cqicw-4Cqihq-4Cm1PZ-4Cm1KP-4Cqin7-4CqigG-4Cqifu-4Cm1zv-4Cqijy-vduCE-5F3PuV
+  creditlink: http://www.flickr.com/photos/40775084@N05/9475526152/
 share: true  
 ---
 
