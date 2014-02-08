@@ -363,25 +363,34 @@ body {
 	-ms-transform: rotate(358deg);
 	@media @medium {
 		float: right;
-		margin: -0.5em -2em 1em 1.5em;
+		margin: 0.5em -2em 1em 1.5em;
 	}
 	@media @large {
 		float: right;
-		margin: -0.5em -5.5em 1em 1.5em;
+		margin: 0.5em -5.5em 1em 1.5em;
+	}
+}
+
+.about-photo {
+	@media @medium {
+		margin-top: -0.5em;
+	}
+	@media @large {
+		margin-top: -0.5em;
 	}
 }
 
 .photograph {
 	max-width: 75%;
 
-	&:nth-child(2n) {
+	&.left {
 		@media @medium {
 			float: left;
-			margin: -0.5em 1.5em 1em -2em;
+			margin: 0.5em 1.5em 1em -2em;
 		}
 		@media @large {
 			float: left;
-			margin: -0.5em 1.5em 1em -5.5em;
+			margin: 0.5em 1.5em 1em -6em;
 		}
 	}
 }
