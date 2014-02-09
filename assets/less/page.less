@@ -4,6 +4,9 @@ body {
 	width: 100%;
 	background-color: @body-color;
 }
+.photo-link {
+	cursor: default;
+}
 
 // Main
 // --------------------------------------------------
@@ -199,6 +202,9 @@ body {
 				.font-size(20);
 			}
 		}
+		h1, h2, h3, h4, h5, h6 {
+			clear: both;
+		}
 	}
 	.entry-meta {
 		margin: 50px 30px 30px;
@@ -363,7 +369,7 @@ body {
 	-ms-transform: rotate(358deg);
 	@media @medium {
 		float: right;
-		margin: 0.5em -2em 1em 1.5em;
+		margin: 0.5em -1.5em 1em 1.5em;
 	}
 	@media @large {
 		float: right;
@@ -383,10 +389,17 @@ body {
 .photograph {
 	max-width: 75%;
 
+	@media @medium {
+		max-width: 60%;
+	}
+	@media @large {
+		max-width: 60%;
+	}
+
 	&.left {
 		@media @medium {
 			float: left;
-			margin: 0.5em 1.5em 1em -2em;
+			margin: 0.5em 1.5em 1em -1.5em;
 		}
 		@media @large {
 			float: left;
