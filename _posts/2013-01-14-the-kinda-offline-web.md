@@ -7,7 +7,7 @@ image:
   feature: storage-shed-hdr.jpg
   credit: katsrcool
   creditlink: http://www.flickr.com/photos/40775084@N05/9475526152/
-share: true  
+share: true
 ---
 
 Offline technology is mature enough to use, but do most web developers know how? Creating a web app that functions entirely offline is fraught with gotchas and involves many technologies working together. Most developers will recommend native apps for an offline experience, but native apps don't have to be the _only_ way.
@@ -16,11 +16,11 @@ The phrase "web app" has traditionally meant something like [Basecamp](http://ba
 
 A few months ago I started work on [Face Value](http://facevalueapp.com/), an open web app that deals with a currency's denominations in a saner way for most travellers. I knew the app would need to work offline; most users would use the app on their phone, often in a foreign country without a data plan.
 
-I know a lot about the localStorage API and even some things about Appcache, but I hadn't ever made a truly offline web app before Face Value. What's worse, I didn't know about some of the really common gotchas one runs into when going from building web apps that rely on a net connection to ones that work offline without issues. My first few attempts were quite buggy, but in the end I have something that I'm quite proud with and trust to take with me--even when I'm without precious, precious data on my phone.
+I knew a lot about the localStorage API and even some things about Appcache, but I hadn't ever made a truly offline web app before Face Value. What's worse, I didn't know about some of the really common gotchas one runs into when going from building web apps that rely on a net connection to ones that work offline without issues. My first few attempts were quite buggy, but in the end I have something that I'm quite proud with and trust to take with me--even when I'm without precious, precious data on my phone.
 
 ## Ingredients
 
-So just what does one need in order to make a web app function offline? Turns out the list isn't too long:
+<a href="http://www.flickr.com/photos/underneath/2316887506/" class="photo-link" target="_blank"><img id="onions-and-peppers" src="{{ site.url }}/images/onions-and-peppers.jpg" alt="Cooking with onions and peppers." title="(Photo credit: Pam Culver)" class="photograph"></a>So just what does one need in order to make a web app function offline? Turns out the list isn't too long:
 
 * **Appcache** is basically mandatory
 * **localStorage** allows you to store user data on the client
@@ -48,7 +48,9 @@ The main thing to remember is that you'll likely want to abstract getting/settin
 
 ## Appcache (is a Four Letter Word)
 
-Appcache is the technology that allows you to explicitly instruct the browser which assets on your (or someone else's) server to cache locally for your app to request. It's powered by a very simple "appcache manifest", [which looks like this](https://github.com/tofumatt/face-value/blob/971910ac583538df71910958817afaf286af4c6b/www/manifest.appcache). It powers [facevalueapp.com](http://facevalueapp.com/) and ensures it works even once your computer or phone is offline. It's an awesome idea, but it's got some rough edges that you really need to be aware of before attempting to leverage it. I think that had someone warned me about these pitfalls before I started building Face Value I'd have been much better off (and spent less time cursing Appcache).
+Appcache is the technology that allows you to explicitly instruct the browser which assets on your (or someone else's) server to cache locally for your app to request. It's powered by a very simple "appcache manifest", [which looks like this](https://github.com/tofumatt/face-value/blob/971910ac583538df71910958817afaf286af4c6b/www/manifest.appcache).
+
+<a href="http://www.flickr.com/photos/wonderlane/4583438114/" class="photo-link" target="_blank"><img src="{{ site.url }}/images/wires.jpg" alt="A series of wires." title="(Photo credit: Wonderlane)" class="photograph left"></a>It powers [facevalueapp.com](http://facevalueapp.com/) and ensures it works even once your computer or phone is offline. It's an awesome idea, but it's got some rough edges that you really need to be aware of before attempting to leverage it. I think that had someone warned me about these pitfalls before I started building Face Value I'd have been much better off (and spent less time cursing Appcache).
 
 ### It's Oh So Quiet
 
@@ -69,7 +71,7 @@ Just be careful about including foreign assets in your Appcache manifest -- you'
 
 ## Conditional Network Access
 
-It's a common scenario to have an app that functions perfectly offline, but does make occasional network requests to do things like update data. Face Value is an excellent example of this: all currency and denomination is stored offline, but currency worth (accessed via Yahoo's Finance API) and currency/denomination data (accessed via Face Value's server) are updated once a day. More accurately, if it's been more than twenty four hours since you last opened the app, Face Value makes a network request to update its dataset before firing a callback that launches the app. Once the data is loaded, Face Value continues loading as normal; if it's been less than twenty four hours since you last updated, the page is immediately rendered without any network requests.
+<a href="http://www.flickr.com/photos/keithius/3888389124/" class="photo-link" target="_blank"><img id="cell-tower" src="{{ site.url }}/images/cell-tower.jpg" alt="A cellphone tower." title="(Photo credit: Keith Survell)" class="photograph"></a>It's a common scenario to have an app that functions perfectly offline, but does make occasional network requests to do things like update data. Face Value is an excellent example of this: all currency and denomination is stored offline, but currency worth (accessed via Yahoo's Finance API) and currency/denomination data (accessed via Face Value's server) are updated once a day. More accurately, if it's been more than twenty four hours since you last opened the app, Face Value makes a network request to update its dataset before firing a callback that launches the app. Once the data is loaded, Face Value continues loading as normal; if it's been less than twenty four hours since you last updated, the page is immediately rendered without any network requests.
 
 Unfortunately, in earlier versions of the app, I didn't anticipate this network request failing because I usually tested the app's offline capability immediately after I launched a fresh version of the app, meaning it was mere minutes since I last obtained this currency data. So my app worked fine in terms of localStorage and Appcache, but that network request failing just wasn't something I encountered in my manual testing!
 
