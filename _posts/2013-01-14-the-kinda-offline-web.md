@@ -10,7 +10,7 @@ image:
 share: true  
 ---
 
-Offline technology is mature enough to use, but do most web developers know how?
+Offline technology is mature enough to use, but do most web developers know how? Creating a web app that functions entirely offline is fraught with gotchas and involves many technologies working together. Most developers will recommend native apps for an offline experience, but native apps don't have to be the _only_ way.
 
 The phrase "web app" has traditionally meant something like [Basecamp](http://basecamp.com/) -- an app accessed at a URL. But many traditional web apps are online, slower that locally-hosted apps with no latency, and bound to a browser. At Mozilla, we're trying to change all of this with FirefoxOS and Open Web Apps. One of the biggest changes to what we call a web app can be encompassed in one word: **offline**.
 
