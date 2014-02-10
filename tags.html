@@ -30,9 +30,9 @@ image:
 		{% assign pages_list = tag[1] %}  
 		{% for post in pages_list %}
 			{% if post.title != null %}
-			{% if group == null or group == post.group %}
-				<li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-			{% endif %}
+			  {% if group == null or group == post.group %}
+				  <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+			  {% endif %}
 			{% endif %}
 		{% endfor %}
 		{% assign pages_list = nil %}
