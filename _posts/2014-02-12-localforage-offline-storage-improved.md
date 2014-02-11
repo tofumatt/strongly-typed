@@ -131,7 +131,8 @@ Let's say you want to download a user's profile picture for your app and cache i
 var request = new XMLHttpRequest();
 
 // Let's get the first user's photo.
-request.open('GET', "/users/1/profile_picture.jpeg", true);
+request.open('GET', "/users/1/profile_picture.jpg", true);
+request.responseType = 'arraybuffer';
 
 // When the AJAX state changes, save the photo locally.
 request.addEventListener('readystatechange', function() {
