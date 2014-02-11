@@ -134,7 +134,7 @@ var request = new XMLHttpRequest();
 request.open('GET', "/users/1/profile_picture.jpeg", true);
 
 // When the AJAX state changes, save the photo locally.
-request.addEventListener 'readystatechange', function() {
+request.addEventListener('readystatechange', function() {
     if (request.readyState === 4) { // readyState DONE
         // We store the binary data as-is; this wouldn't work with localStorage.
         localForage.setItem('user_1_photo', request.response, function() {
