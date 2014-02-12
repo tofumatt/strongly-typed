@@ -115,7 +115,7 @@ WebSQL wouldn't be quite as verbose, but it would still require a fair bit of bo
 {% highlight js %}
 // Save our users.
 var users = [ {id: 1, fullName: 'Matt'}, {id: 2, fullName: 'Bob'} ];
-localForage.setItem('users', users, function(result) {
+localforage.setItem('users', users, function(result) {
     console.log(result);
 });
 {% endhighlight %}
@@ -138,7 +138,7 @@ request.responseType = 'arraybuffer';
 request.addEventListener('readystatechange', function() {
     if (request.readyState === 4) { // readyState DONE
         // We store the binary data as-is; this wouldn't work with localStorage.
-        localForage.setItem('user_1_photo', request.response, function() {
+        localforage.setItem('user_1_photo', request.response, function() {
             // Photo has been saved, do whatever happens next!
         });
     }
@@ -150,7 +150,7 @@ request.send()
 Next time we can get the photo out of localForage with just three lines of code:
 
 {% highlight js %}
-localForage.getItem('user_1_photo', function(photo) {
+localforage.getItem('user_1_photo', function(photo) {
     // Create a data URI or something to put the photo in an <img> tag or similar.
     console.log(photo);
 });
@@ -161,7 +161,7 @@ localForage.getItem('user_1_photo', function(photo) {
 If you don't like using callbacks in your code, you can use [ES6 Promises](http://www.promisejs.org/) instead of the callback argument in localForage. Let's get that photo from the last example, but use promises instead of a callback:
 
 {% highlight js %}
-localForage.getItem('user_1_photo').then(function(photo) {
+localforage.getItem('user_1_photo').then(function(photo) {
     // Create a data URI or something to put the photo in an <img> tag or similar.
     console.log(photo);
 });
