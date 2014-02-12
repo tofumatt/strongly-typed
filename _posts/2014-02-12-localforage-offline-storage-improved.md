@@ -179,4 +179,4 @@ In the worst case, localForage will fall back to localStorage, so you can at lea
 
 ----
 
-<small>This article was edited by [Angelina Fabbro](http://realityhacking.net/) and [Robert Nyman](http://robertnyman.com/), with notes from [Fred Wenzel](http://fredericiana.com/).<br> It was originally published on the [Mozilla Hacks Blog](https://hacks.mozilla.org/).</small>
+<small>This article was edited by [Angelina Fabbro](http://realityhacking.net/) and [Robert Nyman](http://robertnyman.com/), with notes from [Fred Wenzel](http://fredericiana.com/).<br> It was originally published on the [Mozilla Hacks Blog](https://hacks.mozilla.org/2014/02/localforage-offline-storage-improved/).</small>
