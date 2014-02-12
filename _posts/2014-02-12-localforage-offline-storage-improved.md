@@ -16,7 +16,7 @@ localStorage gets you really basic data storage, but it's slow and can't handle 
 
 If you need to write a web app with offline support and don't know where to start, then this is the article for you. If you've ever tried to start working with offline support but it made your head spin, this article is for you too. Mozilla has made a library called [localForage](https://github.com/mozilla/localForage) that makes storing data offline in *any* browser a much easier task.
 
-[around](https://github.com/mozilla/around) is an HTML5 Foursquare client that I wrote that helped me work through some of the pain points of offline storage. We're still going to walk through how to use localForage, but there's some source for those of you that like learn by perusing code.
+[around](https://github.com/mozilla/around) is an HTML5 Foursquare client I wrote that helped me work through some of the pain points of offline storage. We're still going to walk through how to use localForage, but there's some source for those of you that like learn by perusing code.
 
 localForage is a JavaScript library that uses the very simple [localStorage API](https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Storage#localStorage). localStorage gives you, essentially, the features of get, set, remove, clear, and length, but adds:
 
