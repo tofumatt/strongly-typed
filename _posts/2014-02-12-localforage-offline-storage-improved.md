@@ -4,9 +4,9 @@ title: "localForage: Offline Storage, Improved"
 description: "Learn how to store data offline in a web browser without breaking your brain."
 tags: [code, development, offline]
 image:
-  feature: storage-today.jpg
-  credit: romana klee
-  creditlink: http://www.flickr.com/photos/nauright/7503503990/
+  feature: lockers.jpg
+  credit: Timo Heuer
+  creditlink: http://www.flickr.com/photos/upim/3569619036/
 share: true  
 ---
 
@@ -171,7 +171,7 @@ Admittedly, that's a bit of a contrived example, but [around](https://github.com
 
 ## Cross-browser support
 
-**localForage supports all modern browsers**. IndexedDB is [available in all modern browsers aside from Safari](http://caniuse.com/indexeddb) (IE 10+, IE Mobile 10+, Firefox 10+, Firefox for Android 25+, Chrome 23+, Chrome for Android 32+, and Opera 15+). Meanwhile, the stock Android Browser (2.1+) and Safari use WebSQL.
+<a href="http://www.flickr.com/photos/nauright/7503503990/" class="photo-link" target="_blank"><img id="onions-and-peppers" src="{{ site.url }}/images/storage-today.jpg" alt="Storage facility." title="(Photo credit: romana klee)" class="photograph"></a>**localForage supports all modern browsers**. IndexedDB is [available in all modern browsers aside from Safari](http://caniuse.com/indexeddb) (IE 10+, IE Mobile 10+, Firefox 10+, Firefox for Android 25+, Chrome 23+, Chrome for Android 32+, and Opera 15+). Meanwhile, the stock Android Browser (2.1+) and Safari use WebSQL.
 
 In the worst case, localForage will fall back to localStorage, so you can at least store basic data offline (though not blobs and much slower). It at least takes care of automatically converting your data to/from JSON strings, which is how localStorage needs data to be stored.
 
