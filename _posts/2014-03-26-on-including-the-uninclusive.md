@@ -11,15 +11,17 @@ image:
 share: true  
 ---
 
-I work as a software developer at [Mozilla](https://mozilla.org/), so I
-probably hang out in the "tech bubble" a bit more than I should. The world at
-large has issues accepting pretty much anyone outside what it thinks is normal
-and what it thinks is strong. On the social ladder, straight white men are at
-the top, and it goes down from there. People fear what they don't understand;
-they fear what they aren't. And those at the top try to keep their positions
-by restricting the "other".
+I work as a software developer at [Mozilla](https://mozilla.org/); I'm also
+a bisexual guy, just for some context. I probably hang out in the "tech bubble"
+a bit more than I should so this post is based around an event in tech, but I
+think this analysis applies beyond tech. The world at large has issues
+accepting pretty much anyone outside what it thinks is normal and the tech
+scene isn't that different (sometimes: it's worse).
 
-The problem with said restrictions, be they racism or sexism or homophobia or
+People fear what they don't understand; they fear what they aren't.
+And those at the top try to keep their positions by restricting the "other".
+
+The problem with these restrictions, be they racism or sexism or homophobia or
 xenophobia or whatever else, are hopefully evident to you. There's no evidence
 that gays make lousy parents or women make bad programmers. Discounting
 people out-of-hand is hurtful, and it limits some of the best and smartest
@@ -68,10 +70,12 @@ _actions_ was intolerant, alienates them. It alienates you further in their
 minds at the same time.
 
 There is no forward progress in dismissing someone outright for one of their
-traits. As the already alienated people, you should know this, and be better
-than the person attacking you. You may not convince them by trying to open a
-dialogue, but you will certainly not convince them by calling them a bigot
-and putting them on the defensive.
+beliefs or traits--even if they're wrong. As the already alienated people, we
+should know this, and be better than the person attacking you. You may not
+convince someone by trying to open a dialogue, but you will **certainly** not
+convince them by calling them a bigot and putting them on the defensive.
+
+## Try to be Nice, even when they aren't
 
 It's worth asking people politely and without angst if their positions have
 changed. It's worth asking people if they'd like to talk about it. It's worth
