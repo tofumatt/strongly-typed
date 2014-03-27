@@ -77,7 +77,7 @@ and putting them on the defensive.
 
 <small>Some interesting side notes specifically regarding Eich, queers, and Mozilla:</small>
 
-* <small>We added trans benefits and a Code of Conduct with Brendan in a leadership position.</small>
+* <small>We [added trans benefits and a Code of Conduct](http://subfictional.com/2014/03/24/on-brendan-eich-as-ceo-of-mozilla) with Brendan in a leadership position.</small>
 * <small>I have spoke to no queer Mozilla people who feel Eich has ever made them uncomfortable. I have never heard of Eich attacking homosexuals at Mozilla.</small>
 * <small>Conversely, Gerv [posted a call to action against Gay marriage](http://blog.gerv.net/2012/03/coalition-for-marriage-petition/) to [Planet Mozilla](http://planet.mozilla.org/), which prompted the creation of a [Code of Conduct](http://www.mozilla.org/en-US/about/governance/policies/participation/) at Mozilla, which Eich worked on.</small>
 * <small>Mozilla has amazing benefits for same-sex couples everywhere possible, including in many US states where it is not legally required.</small>
