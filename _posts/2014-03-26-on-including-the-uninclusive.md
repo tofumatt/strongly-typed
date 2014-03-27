@@ -73,6 +73,21 @@ than the person attacking you. You may not convince them by trying to open a
 dialogue, but you will certainly not convince them by calling them a bigot
 and putting them on the defensive.
 
+It's worth asking people politely and without angst if their positions have
+changed. It's worth asking people if they'd like to talk about it. It's worth
+not being as reactionary as them. I have never won over someone by calling
+them a bigot and being angry--much the same way as I imagine no one has
+convinced the queer people yelling at Mozilla to "stop being gay" by calling
+them dykes or faggots and dismissing them.
+
+I have honestly had success changing people's minds about gay marriage by
+sitting down and talking with them.
+
+Let's stop yelling. Let's open a dialogue. Evaluate the situation. Ask people
+how they feel. Try doing things without the snark.
+
+Let's just *talk*.
+
 ---
 
 <small>Some interesting side notes specifically regarding Eich, queers, and Mozilla:</small>
