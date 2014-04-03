@@ -52,8 +52,9 @@ What made me realize he was not ready to lead Mozilla--or any company--was his
 
 There was a lot of discussion inside the Mozilla community regarding the
 community sentiment and press articles--many of whom equated Eich with Mozilla,
-leaving many Mozillians--feeling like they were being attacked
-for a belief held by their CEO. Speaking for myself, it was frustrated being
+leaving many Mozillians feeling like they were being attacked
+for a belief they didn't hold because it was held by their CEO.
+Speaking for myself, it was frustrating being
 painted with the same brush as Eich--I'm a bisexual guy who works at a company
 that promotes total freedom on the Internet (and thus in some ways the world).
 Being labelled as someone who works for an anti-LGBT company stung a bit.
