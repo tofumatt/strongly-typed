@@ -2,7 +2,6 @@
 layout: post
 title: "On Including the Uninclusive"
 description: "Why “Bigot” isn’t the best word to use when trying to change someone’s mind."
-foo: "It’s important to be inclusive when talking about inclusiveness."
 tags: [argument, words]
 image:
   feature: piano-keys.jpg
