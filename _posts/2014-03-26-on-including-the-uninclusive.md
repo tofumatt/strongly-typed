@@ -7,7 +7,7 @@ image:
   feature: piano-keys.jpg
   credit: katsrcool
   creditlink: http://www.flickr.com/photos/katsrcool/12644430575/
-share: true  
+share: true
 ---
 
 I work as a software developer at [Mozilla](https://mozilla.org/); I'm also
