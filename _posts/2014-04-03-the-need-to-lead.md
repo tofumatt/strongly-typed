@@ -10,14 +10,14 @@ image:
 share: true
 ---
 
-CEOs need to lead; to make decisions. That's their role in an organization: to
+CEOs need to lead by making decisions. That's their role in an organization: to
 be the singular decision-maker when group consensus won't do the job. Mozilla is
 a big company and an [even bigger community](https://mozillians.org/), so
 having someone around who can think at a high level and make executive
 decisions is important. It keeps the company clear of circular discussions or
-group paralysis. I think [Mozilla is without a CEO today](https://blog.mozilla.org/blog/2014/04/03/brendan-eich-steps-down-as-mozilla-ceo/) because Brendan
-Eich failed in his job as CEO--but not because of his donation in support of
-Prop 8.
+group paralysis. I think [Mozilla is without a CEO today](https://blog.mozilla.org/blog/2014/04/03/brendan-eich-steps-down-as-mozilla-ceo/) not because of
+Brendan Eich's donation in support of Prop 8, but rather because he failed to
+lead effectively as CEO.
 
 Brendan Eich stepped down as CEO at Mozilla today, April 3, 2014, seemingly
 in response to calls for him to resign over
@@ -102,10 +102,10 @@ requires making tough choices and occasionally getting beat up by
 [the press](https://duckduckgo.com/?q=site%3Adaringfireball.net+mozilla).
 
 I think if Eich had apologized, expressed regret, and attempted to repair the
-negative image painted of Mozilla (and his own image in the process), he
-might still be CEO. He could've shown that he could put Mozilla first, that
-he could swallow his pride to appear fair, and that he cared about the mission
-more than preserving his privacy over a public donation.
+negative image painted of Mozilla, he might still be CEO. He could've shown
+that he could put Mozilla first, that he could swallow his pride to appear
+fair, and that he cared about the mission more than preserving his privacy
+over a public donation.
 
 So while the mob might feel like it won, proving that there is some kind of
 zero-tolerance for homophobia in America, Eich's departure from Mozilla
@@ -115,7 +115,9 @@ tells a slightly more nuanced story than that.
 of Eich's ability to be our CEO, to lead us, and to be the face of Mozilla
 as we launched ourselves into exciting new places, it was clear to me over the
 past week or so that he was not suited to that role. I'm sad--deeply so--to
-see him go. I wish it did not require him to leave Mozilla.
+see him go. Brendan Eich invented the language I use for my job every day, he
+was a brilliant technical mind, a protector of the open web, and a founder
+of Mozilla. I wish he did not have to leave Mozilla.
 
 And while I was conflicted on having a Prop 8-supporting CEO, I was not
 conflicted on having one who couldn't tackle an issue like this head-on. I
