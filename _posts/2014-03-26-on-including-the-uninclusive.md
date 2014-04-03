@@ -2,7 +2,7 @@
 layout: post
 title: "On Including the Uninclusive"
 description: "Why “Bigot” isn’t the best word to use when trying to change someone’s mind."
-tags: [argument, words]
+tags: [argument, mozilla, words]
 image:
   feature: piano-keys.jpg
   credit: katsrcool
