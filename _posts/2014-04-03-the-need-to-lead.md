@@ -22,7 +22,7 @@ Prop 8.
 Brendan Eich stepped down as CEO at Mozilla today, April 3, 2014, seemingly
 in response to calls for him to resign over
 [his stance against gay marriage](http://projects.latimes.com/prop8/donation/8930/).
-[The mob](http://arstechnica.com/business/2014/03/gay-firefox-developers-boycott-mozilla-to-protest-ceo-hire/) might think that they've "won"; a lot of community members
+[The mob](http://arstechnica.com/business/2014/03/mozilla-employees-to-brendan-eich-step-down/) might think that they've "won"; a lot of community members
 and [press](http://www.mercurynews.com/60-second-business-break/ci_25486642/biz-break-mozilla-ceo-steps-down-after-prop) already interpret this development as Eich stepping
 down in direct response to his support of Prop 8, but I think it's more
 nuanced than that.
