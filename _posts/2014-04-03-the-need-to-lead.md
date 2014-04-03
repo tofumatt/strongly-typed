@@ -61,18 +61,20 @@ Being labelled as someone who works for an anti-LGBT company stung a bit.
 
 In the CNET interview, when asked what his current views on gay marriage are,
 Eich dodged the question. When asked if he could do it all over again, knowing
-what he knows now and what the backlash against Mozilla would be, he does
-not answer that he would do things differently. He also refuses to commit to be
+what he knows now and what the backlash against Mozilla would be, he did
+not state that he would do things differently. He also refused to commit to be
 clearly _against_ gay marriage, instead reiterating his party line of "let's
-leave our personal opinions at the door." If that were possible, we wouldn't
-still be in this situation a week and a half after his promotion to CEO was
-announced.
+leave our personal opinions at the door." Instead of addressing the issues at
+hand, he very clearly dodged them. I'm really not sure why and I'm at a loss
+to even speculate. Every one of my friends said that while they didn't agree
+with his position, if he just apologized it could have been the end of it.
 
 Eich was given the clear chance to publicly apologize on behalf of himself and
-Mozilla--something called for by many, including myself, for him to do. When
+Mozilla--something called for by many, including myself. When
 asked if he could do it all over and do it different:
 [the correct answer was "yes"](https://www.youtube.com/watch?v=6BWJFnLjZGo).
-But he didn't. He didn't fail as CEO until that point.
+But he didn't say he would do it different. He hadn't failed as CEO until that
+exact point in time.
 
 ## The Result
 
