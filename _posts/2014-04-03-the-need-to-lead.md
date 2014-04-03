@@ -30,7 +30,7 @@ nuanced than that.
 ## The Face of the Company
 
 <img id="the-bobs" src="{{ site.url }}/images/the-bobs-office-space.jpg" alt="The Bobs, from the movie Office Space" title="What would you say, you do here?" class="photograph">The title CEO stands for Chief **Executive** Officer--a CEO's job is to make
-decisions; to _execute_. Though Eich's stance on gay marriage is something
+decisions on behalf of the entire company; to _execute_. Though Eich's stance on gay marriage is something
 I find exclusionary and generally _awful_ as a queer guy, I don't think it's why
 he can't be Mozilla's CEO. While I would prefer my company's CEO be socially
 progressive, Eich's battle is [already lost](http://en.wikipedia.org/wiki/Same-sex_marriage_in_California) and he has never injected his views into company
