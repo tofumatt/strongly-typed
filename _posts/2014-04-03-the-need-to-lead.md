@@ -36,7 +36,9 @@ he can't be Mozilla's CEO. While I would prefer my company's CEO be socially
 progressive, Eich's battle is [already lost](http://en.wikipedia.org/wiki/Same-sex_marriage_in_California) and he has never injected his views into company
 culture, hiring practices, or community discussions. For Mozilla, a company
 whose mission I care deeply about, I want a leader who can make tough decisions,
-be mindful of the future, and run a company well more than anything.
+be mindful of the future, and run a company well more than anything else. His
+views on gay rights anger me, but they ultimate affect very little in my life
+in any practical sense.
 
 Being on the losing side of history this one time is okay, because I've seen
 Eich be right about many things during just my tenure at Mozilla. He's [wrote eloquently on issues affecting the web](https://brendaneich.com/2013/02/why-mozilla-matters/)
