@@ -83,11 +83,8 @@ thoughts on gay marriage, his Prop 8 donation, or inclusiveness at Mozilla.
 That CNET article was his chance to apologize, to make things right, and to
 speak on behalf of Mozilla--as its newly-minted CEO, not as Brendan Eich.
 
-Unfortunately, he failed to execute.
-
-Eich did not move the needle forward, advance the discussion, or put the issue
-to rest in that article. In his first test as CEO of Mozilla, he **failed to
-execute**. So while I think his donation to Prop 8 spurred the controversy and
+In his first test as CEO of Mozilla, he **failed to execute**. So while I
+think his donation to Prop 8 spurred the controversy and
 exposed his inability to think as _Mozilla's CEO_ instead of as _Brendan Eich_,
 I don't think it was his stance against gay marriage in his home state
 of California that should be looked to as the cause for his departure.
