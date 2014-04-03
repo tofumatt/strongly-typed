@@ -103,7 +103,7 @@ So while the mob might feel like it won, proving that there is some kind of
 zero-tolerance for homophobia in America, Eich's departure from Mozilla
 tells a slightly more nuanced story than that.
 
-**I'm not conflicted about this, even if it is saddening.** While I was hopeful
+<img src="{{ site.url }}/images/mozlove.png" alt="Heart Mozilla" title="What would you say, you do here?" class="photograph">**I'm not conflicted about this, even if it is saddening.** While I was hopeful
 of Eich's ability to be our CEO, to lead us, and to be the face of Mozilla
 as we launched ourselves into exciting new places, it was clear to me over the
 past week or so that he was not suited to that role. I'm sad--deeply so--to
