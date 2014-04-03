@@ -7,7 +7,7 @@ image:
   feature: lockers.jpg
   credit: Timo Heuer
   creditlink: http://www.flickr.com/photos/upim/3569619036/
-share: true  
+share: true
 ---
 
 Web apps have had offline capabilities like saving large data sets and binary files for some time. You can even do things like [cache MP3 files](https://github.com/mozilla/high-fidelity). Browser technology can store data offline and plenty of it. The problem, though, is that the technology choices for how you do this are fragmented.
