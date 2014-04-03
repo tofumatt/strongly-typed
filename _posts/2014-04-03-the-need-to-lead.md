@@ -125,7 +125,7 @@ detractors of Mozilla and Eich who wanted him to resign rather than recant,
 explain, and apologize. But it applied to Eich as well.
 
 I guess the discussion is over now. Let's all get back to work. The world
-needed a Mozilla that was open, but Mozilla needs you too.
+needed a Mozilla that was open, but now Mozilla needs you too.
 
 ---
 
