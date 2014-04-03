@@ -116,4 +116,15 @@ past week or so that he was not suited to that role. I'm sad--deeply so--to
 see him go. I wish it did not require him to leave Mozilla.
 
 And while I was conflicted on having a Prop 8-supporting CEO, I was not
-conflicted on having one who couldn't tackle an issue like this head-on.
+conflicted on having one who couldn't tackle an issue like this head-on. I
+[advocated last week that we talk about this issue](/2014/03/26/on-including-the-uninclusive/), calmly and openly, hopeful that a positive discussion would come of it and
+things could be better than they were. This plea was largely aimed at
+detractors of Mozilla and Eich who wanted him to resign rather than recant,
+explain, and apologize. But it applied to Eich as well.
+
+I guess the discussion is over now. Let's all get back to work. The world
+needed a Mozilla that was open, but Mozilla needs you too.
+
+---
+
+<small>In case it's not clear: I work for Mozilla.</small>
