@@ -37,8 +37,7 @@ progressive, Eich's battle is [already lost](http://en.wikipedia.org/wiki/Same-s
 culture, hiring practices, or community discussions. For Mozilla, a company
 whose mission I care deeply about, I want a leader who can make tough decisions,
 be mindful of the future, and run a company well more than anything else. His
-views on gay rights anger me, but they ultimate affect very little in my life
-in any practical sense.
+views on gay rights anger me, but they have little practical effect on my life.
 
 Being on the losing side of history this one time is okay, because I've seen
 Eich be right about many things during just my tenure at Mozilla. He's [wrote eloquently on issues affecting the web](https://brendaneich.com/2013/02/why-mozilla-matters/)
@@ -50,14 +49,14 @@ What made me realize he was not ready to lead Mozilla--or any company--was his
 
 ## The Correct Answer was "Yes"
 
-There was a lot of discussion inside the Mozilla community regarding the
-community sentiment and press articles--many of whom equated Eich with Mozilla,
-leaving many Mozillians feeling like they were being attacked
-for a belief they didn't hold because it was held by their CEO.
+There was a lot of discussion inside the Mozilla community regarding
+public sentiment and press articles--many of which equated Eich with Mozilla.
+This left many Mozillians feeling like they were being attacked for a belief
+they didn't hold, simply because it was held by their CEO.
 Speaking for myself, it was frustrating being
 painted with the same brush as Eich--I'm a bisexual guy who works at a company
 that promotes total freedom on the Internet (and thus in some ways the world).
-Being labelled as someone who works for an anti-LGBT company stung a bit.
+Being labelled as someone who works for an anti-LGBT company stung.
 
 In the CNET interview, when asked what his current views on gay marriage are,
 Eich dodged the question. When asked if he could do it all over again, knowing
@@ -71,10 +70,11 @@ with his position, if he just apologized it could have been the end of it.
 
 Eich was given the clear chance to publicly apologize on behalf of himself and
 Mozilla--something called for by many, including myself. When
-asked if he could do it all over and do it different:
+asked if he could do it all over and do it differently:
 [the correct answer was "yes"](https://www.youtube.com/watch?v=6BWJFnLjZGo).
-But he didn't say he would do it different. He hadn't failed as CEO until that
-exact point in time.
+But he didn't say he would do it differently.
+
+It was at that exact point in time that he failed as CEO.
 
 ## The Result
 
