@@ -15,11 +15,11 @@ be the singular decision-maker when group consensus won't do the job. Mozilla is
 a big company and an [even bigger community](https://mozillians.org/), so
 having someone around who can think at a high level and make executive
 decisions is important. It keeps the company clear of circular discussions or
-group paralysis. I think Mozilla is without a CEO today because our former CEO,
-Brendan Eich, failed in his job as CEO--not because of his donation in
-support of Prop 8.
+group paralysis. I think [Mozilla is without a CEO today](https://blog.mozilla.org/blog/2014/04/03/brendan-eich-steps-down-as-mozilla-ceo/) because Brendan
+Eich failed in his job as CEO--but not because of his donation in support of
+Prop 8.
 
-[Brendan Eich stepped down as CEO at Mozilla today](https://blog.mozilla.org/blog/2014/04/03/brendan-eich-steps-down-as-mozilla-ceo/), seemingly
+Brendan Eich stepped down as CEO at Mozilla today, April 3, 2014, seemingly
 in response to calls for him to resign over
 [his stance against gay marriage](http://projects.latimes.com/prop8/donation/8930/).
 [The mob](http://arstechnica.com/business/2014/03/gay-firefox-developers-boycott-mozilla-to-protest-ceo-hire/) might think that they've "won"; a lot of community members
