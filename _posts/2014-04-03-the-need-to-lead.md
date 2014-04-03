@@ -11,7 +11,7 @@ share: true
 ---
 
 CEOs need to lead; to make decisions. That's their role in an organization: to
-be a singular decision-maker when group consensus won't do the job. Mozilla is
+be the singular decision-maker when group consensus won't do the job. Mozilla is
 a big company and an [even bigger community](https://mozillians.org/), so
 having someone around who can think at a high level and make executive
 decisions is important. It keeps the company clear of circular discussions or
