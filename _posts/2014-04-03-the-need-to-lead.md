@@ -78,28 +78,20 @@ It was at that exact point in time that he failed as CEO.
 
 ## The Result
 
-Anyone reading the article would not walk away with a clearer picture of Eich's
-thoughts on gay marriage, his Prop 8 donation, or inclusiveness at Mozilla.
-That CNET article was his chance to apologize, to make things right, and to
+That CNET article was Eich's chance to apologize, to make things right, and to
 speak on behalf of Mozilla--as its newly-minted CEO, not as Brendan Eich.
 
 In his first test as CEO of Mozilla, he **failed to execute**. So while I
 think his donation to Prop 8 spurred the controversy and
 exposed his inability to think as _Mozilla's CEO_ instead of as _Brendan Eich_,
 I don't think it was his stance against gay marriage in his home state
-of California that should be looked to as the cause for his departure.
+of California that should be named as the cause of his departure.
 
 ## "Conflicted"
 
 I've already noticed many of my colleagues expressing their conflicted feelings
 about Eich's resignation. To me: there is no conflict, though there is perhaps
 some disappointment.
-
-<img src="{{ site.url }}/images/mozlove.png" alt="Heart Mozilla" title="What would you say, you do here?" class="photograph">Mozilla is an important, world-changing organization. It stands for a free and
-open, privacy-minded, and user-centric Internet. [OKCupid encouraged users to switch browsers to send a message to Mozilla](http://www.cnet.com/news/okcupid-piles-on-mozilla-calls-for-new-ceo-to-resign/), with the entire notion of browser choice being reinvigorated by
-Mozilla itself. The role of CEO is incredibly important to Mozilla; it
-requires making tough choices and occasionally getting beat up by
-[the press](https://duckduckgo.com/?q=site%3Adaringfireball.net+mozilla).
 
 I think if Eich had apologized, expressed regret, and attempted to repair the
 negative image painted of Mozilla, he might still be CEO. He could've shown
@@ -117,10 +109,10 @@ as we launched ourselves into exciting new places, it was clear to me over the
 past week or so that he was not suited to that role. I'm sad--deeply so--to
 see him go. Brendan Eich invented the language I use for my job every day, he
 was a brilliant technical mind, a protector of the open web, and a founder
-of Mozilla. I wish he did not have to leave Mozilla.
+of Mozilla. I wish he didn't have to leave.
 
-And while I was conflicted on having a Prop 8-supporting CEO, I was not
-conflicted on having one who couldn't tackle an issue like this head-on. I
+And while I was conflicted about having a Prop 8-supporting CEO, I was not
+conflicted about having one who couldn't tackle an issue like this head-on. I
 [advocated last week that we talk about this issue](/2014/03/26/on-including-the-uninclusive/), calmly and openly, hopeful that a positive discussion would come of it and
 things could be better than they were. This plea was largely aimed at
 detractors of Mozilla and Eich who wanted him to resign rather than recant,
