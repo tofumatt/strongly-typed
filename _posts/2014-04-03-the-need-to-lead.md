@@ -60,7 +60,7 @@ that promotes total freedom on the Internet (and thus in some ways the world).
 Being labelled as someone who works for an anti-LGBT company stung a bit.
 
 In the CNET interview, when asked what his current views on gay marriage are,
-Eich dodges the question. When asked if he could do it all over again, knowing
+Eich dodged the question. When asked if he could do it all over again, knowing
 what he knows now and what the backlash against Mozilla would be, he does
 not answer that he would do things differently. He also refuses to commit to be
 clearly _against_ gay marriage, instead reiterating his party line of "let's
