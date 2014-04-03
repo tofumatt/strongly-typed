@@ -42,7 +42,7 @@ in any practical sense.
 
 Being on the losing side of history this one time is okay, because I've seen
 Eich be right about many things during just my tenure at Mozilla. He's [wrote eloquently on issues affecting the web](https://brendaneich.com/2013/02/why-mozilla-matters/)
-and [Mozilla's interactions with closed standards](https://brendaneich.com/2012/03/video-mobile-and-the-open-web/). He is technically thoughtful and experienced. I would say his
+and [Mozilla's interactions with closed standards](https://brendaneich.com/2012/03/video-mobile-and-the-open-web/). On a technical level, he thoughtful and experienced. I would say his
 overall track record coming in as CEO was **solid**.
 
 What made me realize he was not ready to lead Mozilla--or any company--was his
