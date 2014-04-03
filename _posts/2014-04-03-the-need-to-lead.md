@@ -93,7 +93,7 @@ I've already noticed many of my colleagues expressing their conflicted feelings
 about Eich's resignation. To me, there is no conflict, though perhaps some
 disappointment.
 
-Mozilla is an important, world-changing organization. It stands for a free and
+<img src="{{ site.url }}/images/mozlove.png" alt="Heart Mozilla" title="What would you say, you do here?" class="photograph">Mozilla is an important, world-changing organization. It stands for a free and
 open, privacy-minded, and user-centric Internet. [OKCupid encouraged users to switch browsers to send a message to Mozilla](http://www.cnet.com/news/okcupid-piles-on-mozilla-calls-for-new-ceo-to-resign/), with the entire notion of browser choice being reinvigorated by
 Mozilla itself. The role of CEO is incredibly important to Mozilla; it
 requires making tough choices and occasionally getting beat up by
