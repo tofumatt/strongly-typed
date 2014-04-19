@@ -8,29 +8,33 @@ image:
 share: true  
 ---
 
-On Wednesday, April 16, 2014, I headed over to a motorcycle shop in LaSalle
-where one of my motorcycles had been sitting in storage. Winter was nearly
-over, and while it was hardly the warmest of days, I decided I would pick the
-bike up and take it home. I was bundled up because of the cold, but I was
+Motorcycle crashes are nasty business. I've been in a few crashes and I've
+always been able to walk away from them. Part of that is some skill as a rider,
+and part of it is just luck. But a huge part is wearing gear that actually
+protected me from the impact. In every crash I've been in, my legs have faired
+the worst, because I almost always ride in jeans. I've also never been at
+fault, but thanks to the way motorcycle crashes can go down--motorcyclists are
+often left holding the bag. Here's what happened to me on April 16, 2014.
+
+Last Wednesday, I headed over to a motorcycle shop in LaSalle to pick up one of
+my motorcycles (a 2008 Aprilia Shiver). It wasn't the warmest day, but I was
 excited to get riding again--even if I'd have to take it slow on the way home.
-Unfortunately, I did not even make it home on the bike.
+Unfortunately, I didn't get very far.
 
 Two blocks away from the dealership, a car changed into my lane without
 signalling. I crashed my motorcycle and the car drove off. A hit-and-run.
+
 Worse than that: as I lay there on the ground, people behind me simply
 drove on ahead instead of stopping to help me or see if I was okay. I managed
 to flag down a pedestrian who helped me move my bike off the road (lifting a
 naked bike off the street poses certain challenges as much of the exhaust and
 engine are exposed).
 
-Because no one who actually *saw* what happened take place, I didn't stay and
-I filed a police report the day after--there were no eyewitnesses left so an
-on-site report would have simply left me standing in the cold for an hour. This
-isn't the first motorcycle accident I've been in, and I've also been fortunate
-enough to never even break a bone from a crash. I'm an experienced rider and
-I've dodged some pretty hairy situations before. Mostly the reason I think I
-haven't been worse off is because I ride like people are trying to kill me.
-But certainly a part of my lack of broken bones is the motorcycle gear I wear.
+Because no one who actually *saw* what happened stuck around, I didn't stick
+around to file a police report on-site. This isn't the first motorcycle
+accident I've been in, but I've been fortunate enough to never even break
+a bone from a crash. Certainly a part of my lack of broken bones is the
+motorcycle gear I wear.
 
 ## All of the Gear, All of the Time?
 
@@ -126,4 +130,21 @@ didn't flip or roll at all, so the damage is minimal. It might need a new
 handlebar, and there's definitely some cosmetic damage, but it shouldn't be
 anything too bad.
 
+## What To Do
 
+Honestly, I wouldn't be surprised if the car driver didn't even notice I went
+down, given how little attention they were paying. In their rearview mirror
+they wouldn't have seen me as I was on the ground. But no one else stopped or
+tried to get the driver to stop. _Please_ look out for motorcycles on the road.
+
+I know motorcyclists and car drivers don't always empathise with each other
+very well. Motorcyclists are angry at cars for never looking and hurting us.
+Car drivers are freaked out of aggressive bikers who filter poorly and ride
+like the street is a race track.
+
+If you see a motorcycle crash take place: **help the rider and do what they
+say**. They'll be full of adreneline and might feel embarrassed, but they need
+to **turn off the engine**, **move their bike off the street** (if possible),
+**sit down** (assuming they can), and **call the cops**. Most motorcycle
+accidents involve more bodily harm than damage to the bike, and even the most
+expensive street bikes cost less than a nice Honda Civic.
