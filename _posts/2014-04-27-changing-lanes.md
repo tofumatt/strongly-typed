@@ -11,7 +11,7 @@ share: true
 Motorcycle crashes are nasty business. I've been in a few crashes and I've
 always been able to walk away from them. Part of that is some skill as a rider,
 and part of it is just luck. But a huge part is wearing gear that actually
-protected me from the impact. In every crash I've been in, my legs have faired
+protected me from the impact. In every crash I've been in, my legs have fared
 the worst, because I almost always ride in jeans. I've also never been at
 fault, but thanks to the way motorcycle crashes can go down--motorcyclists are
 often left holding the bag. Here's what happened to me on April 16, 2014.
