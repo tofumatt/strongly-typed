@@ -16,7 +16,7 @@ the worst, because I almost always ride in jeans. I've also never been at
 fault, but thanks to the way motorcycle crashes can go down--motorcyclists are
 often left holding the bag. Here's what happened to me on April 16, 2014.
 
-Last Wednesday, I headed over to a motorcycle shop in LaSalle to pick up one of
+I headed over to a motorcycle shop in LaSalle to pick up one of
 my motorcycles (a 2008 Aprilia Shiver). It wasn't the warmest day, but I was
 excited to get riding again--even if I'd have to take it slow on the way home.
 Unfortunately, I didn't get very far.
