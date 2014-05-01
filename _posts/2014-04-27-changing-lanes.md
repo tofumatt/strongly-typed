@@ -33,10 +33,9 @@ engine are exposed).
 Because no one who actually *saw* what happened stuck around, I didn't stick
 around to file a police report on-site. Motorcycle crashes are absolutely
 awful for the rider, even if they wind up coming out mostly okay as I did.
-If you see a bike crash happen on the road, please help the rider; no one
-stopping to help and instead driving around me probably led to me stressing
-out way more than necessarily and also hurting myself trying to hurrily pickup
-my bike off the street as cars continued to zip around me.
+If you see a bike crash happen on the road: please help the rider. Crashing
+feels awful, but having to get my bike off the street as cars continued to
+zip around me was _worse_.
 
 ## All of the Gear, All of the Time?
 
