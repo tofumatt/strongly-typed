@@ -7,7 +7,7 @@ image:
   feature: sport-touring.jpg
 ---
 
-Strongly Typed is an occasional exercise in writing by [me, Matthew Riley MacPherson](http://lonelyvegan.com). I think about certain things--code, coffee, development, motorcycle gear, and travel--often, so I wanted a soapbox on which to shout about them.
+Strongly Typed is an occasional exercise in writing by [me, Matthew Riley MacPherson](http://tofumatt.com). I think about certain things--code, coffee, development, motorcycle gear, and travel--often, so I wanted a soapbox on which to shout about them.
 
 ## About Me, Matthew Riley MacPherson
 
