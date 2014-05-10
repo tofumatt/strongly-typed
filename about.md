@@ -19,14 +19,22 @@ I'm originally from a [tiny city](http://en.wikipedia.org/wiki/Sydney,_Nova_Scot
 
 In 2011 I bought a brand-new Ducati 848 and [did some crazy stuff on it](http://triggersandsparks.com/blog/how-a-motorcycle-made-me-a-better-businessperson/). Slightly before I bought the Ducati I [started seeing a girl](http://twitter.com/sarahsemark), so I can't blame the cool bike for that.
 
-I later moved to [Montreal](http://en.wikipedia.org/wiki/Montreal) despite not knowing French or that the [PQ would win an election](http://en.wikipedia.org/wiki/Quebec_general_election,_2012). Shortly after I arrived my Ducati 848 was stolen from my home and I found a new love in vintage cafe racers (specifically a [1976 Honda 400 Four](http://en.wikipedia.org/wiki/Honda_CB400F), pictured above). I also own an [Aprilia Shiver](http://en.wikipedia.org/wiki/Aprilia_SL_750_Shiver), which I bought after I missed owning Italian things with two cylinders that go fast.
+I later moved to [Montreal](http://en.wikipedia.org/wiki/Montreal) despite not knowing French or that the [PQ would win an election](http://en.wikipedia.org/wiki/Quebec_general_election,_2012).
+
+I thoroughly enjoy vintage cafe racers (specifically a
+[1976 Honda 400 Four](http://en.wikipedia.org/wiki/Honda_CB400F), pictured
+above).
 
 ### Travel
 
-I started to travel much more after joining Mozilla, having since visited a fair share of Canada and the USA, while racking up passport stamps from a few other continents. I, as mentioned, rode my motorcycle over 3,000 kilometres in one weekend for fun, then flew across North America as soon as I returned home. I am particularly fond of Bangkok for its mix of Thai food and [farang-friendly Jazz bars](https://foursquare.com/v/the-iron-fairies--co/4bd98c220115c9b67da47780).
+I started to travel much more after joining Mozilla. I am particularly fond of
+Bangkok for its mix of Thai food and
+[farang-friendly Jazz bars][if].
+
+[if]: https://foursquare.com/v/the-iron-fairies--co/4bd98c220115c9b67da47780
 
 ### Other Pursuits
 
-I'm thoroughly interested in slightly obscure aspects of the world like citizenship laws or the politics of language. I am fascinated by the pace of globalization that technology has enabled. I less often think more regulation is the right answer, but I'm not convinced that government is an evil thing that must be eradicated.
-
-I also, like most nerds with enough disposable income, obsess a fair deal over coffee.
+Like most nerds with enough disposable income, I obsess over coffee. My
+favourite brew method is tied between pulling a shot of espresso and pouring
+a cup of Hario V60 brew coffee.
