@@ -36,16 +36,37 @@ discourages **nitpicking** and **insider knowledge**.
 
 My friend [sole][] [pointed out a lot of things][sole-talk] [our team][]
 could do to create better, more successful open source projects. In this
-context, I think success is not only lots of users of our software, but
-contributors *to* our software. As she gave her presentation, I realized
-the reasons localForage has so many [contributions][] from community members
-were all things sole was advocating in her presentation. There were a few
-things I wasn't doing yet, but it made me think about fostering open source
-projects.
+context, I think success is not only lots of users *of* our software, but
+contributors *to* our software. The same things sole was advocating for were
+clearly things that fostered [contributions][] to localForage.
 
 So what can you do to write an open source project that will not only garner
 people's interests, but also their contributions? Here are the things that have
 worked for me, without fail:
+
+### No Insider Knowledge
+
+Document *everything*. This one sounds easy and obvious, but it's not as
+simple as a README with a few rushed paragraphs. You need to make sure people
+know what your library does without having to read all the documentation.
+Resist the temptation to name or cleverly describe something you want people
+to use. The tagline of your project (and it should have a tagline) is the
+entry point for people along with its name--it's also your one-sentence
+elevator pitch. localForage's use to simply advertise itself as:
+
+ > Offline storage, improved.
+
+While that might sound "cool", it fails to simpy tell a glancing developer if
+they should use it, if it solves their problems, or even what it does. The
+new tagline in the app is:
+
+ > localForage is a JavaScript library that improves the offline experience
+   of your web app by using asynchronous storage (via IndexedDB or WebSQL
+   where available) with a simple, localStorage-like API.
+
+Even that's a bit wordy, but it's **much** more informative.
+
+If you're writing anything with a public API, maintain a changelog.
 
 <!--
 Cracked Podcast is either:
