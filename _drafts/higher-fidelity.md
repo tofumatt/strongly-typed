@@ -157,7 +157,7 @@ I don't have to worry about re-rendering the template on certain events, and Emb
 Using [@digiarald][]'s awesome [firewatch][https://www.npmjs.org/package/firewatch] tool, I found that new Rec Room apps used on average 2x-2.5x the memory of Gaia apps (apps like Clock used about 9MB on my Flame device -- Podcasts used between 20-30MB). For a point of reference, the highly optimized Firefox Marketplace app on my Flame device uses the same amount of memory (about 18-25MB). I feel like these numbers speak well to the kind of performance you can expect with this Ember set up -- and I haven't even tried to optimize anything yet.
 
 [@digiarald]: https://twitter.com/digitarald
-[firewatch]
+[firewatch]: https://www.npmjs.org/package/firewatch
 
 ## Podcasts on Firefox OS
 
