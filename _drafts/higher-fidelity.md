@@ -66,8 +66,8 @@ I tried to get away from using the Gaia UI, which I think is bad form anyway as 
 
 The Backbone version of Podcasts required a *lot* more manual intervention and work than the new Ember version. Ember handles data binding, model persistence, and templating much more magically than Backbone, but it's not opaque or hard to override. Check out the difference in code from the Backbone Podcast Controller and the Ember Podcast Controller:
 
-{% highlight js %}
-// There's actually extra bits of `define()` in this code I've stripped out.
+```js
+// There are actually extra bits of `define()` in this code I've stripped out.
 var PodcastView = Backbone.View.extend({
     className: 'podcast',
     el: '#podcast-details',
@@ -132,11 +132,11 @@ var PodcastView = Backbone.View.extend({
         });
     }
 });
-{% endhighlight %}
+```
 
 And here's the Ember version that does the same thing:
 
-{% highlight js %}
+```js
 // This is the entire file.
 HighFidelity.PodcastController = Ember.ObjectController.extend({
     actions: {
@@ -151,7 +151,7 @@ HighFidelity.PodcastController = Ember.ObjectController.extend({
         }
     }
 });
-{% endhighlight %}
+```
 
 I don't have to worry about re-rendering the template on certain events, and Ember's data-binding automatically re-renders only the part of my templates that change, instead of re-rendering an entire chunk of the DOM every time a tiny variable changes. This is much less prone to error and also noticeably faster.
 
@@ -187,23 +187,23 @@ The `recroom` binary is your entry point to all of the cool things Rec Room can 
 
 First, we'll add the current time to the main tab. Rec Room supports Ember's MVC app structure, but also offers simple "pages" for a controller without a 1:1 relationship to a model. We'll generate a new page that will show our actual clock: `recroom generate page Clock`. We can edit its template by opening `app/templates/clock.hbs`. Let's change `clock.hbs` to include the variable that will output our local time:
 
-{% highlight hbs %}
+```html
 <h2>Local Time: {{localTime}}</h2>
-{% endhighlight %}
+```
 
 That won't do much yet, so let's add that variable to our `ClockController`, in `app/scripts/controllers/clock_controller.js`:
 
-{% highlight js %}
+```js
 WorldClock.ClockController = Ember.ObjectController.extend({
     localTime: new Date().toLocaleTimeString()
 });
-{% endhighlight %}
+```
 
 You can see that any property inside the controller is accessible inside that controller's template. We define the `1ocalTime` property and it gets carried into our template context.
 
 Now our clock app will show the current local time when we navigate to `http://localhost:9000/#clock`. Of course, it just shows the time it was when the controller was initialized; there is no live updating of the time. We should update the time every second inside the controller:
 
-{% highlight js %}
+```js
 WorldClock.ClockController = Ember.ObjectController.extend({
     init: function() {
         // Update the time.
@@ -225,7 +225,7 @@ WorldClock.ClockController = Ember.ObjectController.extend({
 
     localTime: new Date().toLocaleTimeString()
 });
-{% endhighlight %}
+```
 
 Now we can go to our clock URL and see our clock automatically updates every second. This is thanks to Ember's data-binding between controllers and templates; if we change a value in a controller, model, or view that's wired up to a template, the template will automatically change that data for us.
 
