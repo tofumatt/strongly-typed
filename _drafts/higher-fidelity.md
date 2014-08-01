@@ -420,6 +420,10 @@ WorldClock.ClockController = Ember.ObjectController.extend({
 
 And that's it! Now we have an offline app that shows us time zones in various places, saves the data offline, and updates every second without us having to do much work!
 
+## See the app in action!
+
+This entire sample app is available at [tofumatt.com/tous-le-temps](tofumatt.com/tous-le-temps) and the [source code is available on GitHub](https://github.com/tofumatt/tous-le-temps).
+
 [bower]: http://bower.io/
 [Ember Data]: https://github.com/emberjs/data
 [Moment Timezone]: http://momentjs.com/timezone/
