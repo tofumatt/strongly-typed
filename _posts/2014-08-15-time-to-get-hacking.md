@@ -285,7 +285,7 @@ To build your app, you just need to run `recroom build` and a version with minif
 
 ## See the app in action!
 
-This entire sample app is available at [tofumatt.com/tous-le-temps](tofumatt.com/tous-le-temps) and the [source code is available on GitHub](https://github.com/tofumatt/tous-le-temps).
+This entire sample app is available at [worldclock.tofumatt.com](http://worldclock.tofumatt.com/) and the [source code is available on GitHub](https://github.com/tofumatt/tous-le-temps).
 
 [bower]: http://bower.io/
 [Ember Data]: https://github.com/emberjs/data
