@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Time to Get Hacking"
-description: "The beginnings of a better way to build web apps."
+description: "The beginnings of a better way to build mobile web apps."
 tags: [open source, open web apps]
 image:
   feature: tools.jpg
@@ -10,13 +10,13 @@ image:
 share: true
 ---
 
-It's no secret that the best frameworks and tools are extracted, not created out of thin air. Since launching Firefox OS, Mozilla has been approached by countless app developers and web developers with a simple question: "How do I make apps for Firefox OS?" The answer: "It's the web; use existing web technologies." was—and still is—a good answer. But if you don't already _have_ an existing toolchain as a web developer I've been working on extracting something out of the way I've been creating web apps at Mozilla that you can use to write your next web app. From project creation to templating to deployment, [Mozilla's Rec Room][] will help you create awesome web apps in less time with more ease.
+It's no secret that the best frameworks and tools are extracted, not created out of thin air. Since launching Firefox OS, Mozilla has been approached by countless app developers and web developers with a simple question: "How do I make apps for Firefox OS?" The answer: "it's the web; use existing web technologies" was—and still is—a good answer. But if you're looking for a streamlined way to build apps, I've built something from the things I've learned building web apps at Mozilla for years. From project creation to templating to deployment, [Mozilla's Rec Room][] will help you create awesome web apps in less time with more ease.
 
 In this post I'll walk through how to create a simple world clock web app with Rec Room, how to deploy it, and how you can try out Rec Room for yourself.
 
 ## Where Does Rec Room Come From?
 
-Much of Rec Room came from a recent rewrite of the [HTML5 podcast app][]. I started working on this app [well over a year ago][], but its original version wasn't as easy to work on; it had a _lot_ of global state and a lot of by-hand data-binding. I liked the look of Ember for app development, but back when I started it didn't quite feel mature enough. These days it's much better, and I've tweaked it in Rec Room to work perfectly without a server.
+Much of Rec Room came from a recent rewrite of the [HTML5 podcast app][]. I started working on this app [well over a year ago][], but its original version wasn't as easy to work on; it had a _lot_ of global state and a lot of by-hand data-binding. Ember looked interesting and very idiomatic, but back when I started it didn't quite feel mature enough. These days it's performant and stable, and I've tweaked it in Rec Room to work perfectly without a server.
 
 I tried to take the best from that system and extract it into a set of tools and documentation that anyone can use.
 
@@ -38,7 +38,7 @@ npm install -g recroom
 
 We'll create a simple clock app with (minimal) time zone support for our example. The app will let you have a clock and compare it with a few time zones.
 
-The `recroom` binary is your entry point to all of the cool things Rec Room can do for you. First, create your app using `recroom new world-clock`. This creates the basic app structure. To see the basic app skeleton that Rec Room creates we can now enter that directory and run our app: `cd world-clock` and then type `recroom run`. The app will open in your default browser.
+The `recroom` script is your entry point to all of the cool things Rec Room can do for you. First, create your app using `recroom new world-clock`. This creates the basic app structure. To see the basic app skeleton that Rec Room creates we can now enter that directory and run our app: `cd world-clock` and then type `recroom run`. The app will open in your default browser.
 
 First, we'll add the current time to the main tab. Rec Room supports Ember's MVC app structure, but also offers simple "pages" for a controller without a 1:1 relationship to a model. We'll generate a new page that will show our actual clock:
 
@@ -277,9 +277,11 @@ And that's it! Now we have an offline app that shows us time zones in various pl
 
 ### Command Line Tools
 
-The old Podcasts app used a [(rather awful) Makefile][Makefile]. It wasn't very useful, and I don't think it ran on Windows without some *serious* effort. The new build system uses Node so it runs comfortably on Windows, Mac, and Linux. Commands are proxied via the `recroom` binary, also written in Node, so you don't have to worry about the underlying system if you don't need to modify build steps. `recroom new my-app` creates a new app; `recroom serve` serves up your new app, and `recroom generate model Podcast` creates a new model for you.
+The old Podcasts app used a [(rather awful) Makefile][Makefile]. It wasn't very useful, and I don't think it ran on Windows without some *serious* effort. The new build system uses Node so it runs comfortably on Windows, Mac, and Linux. Commands are proxied via the `recroom` command, also written in Node, so you don't have to worry about the underlying system if you don't need to modify build steps. `recroom new my-app` creates a new app; `recroom serve` serves up your new app, and `recroom generate model Podcast` creates a new model for you.
 
 To build your app, you just need to run `recroom build` and a version with minified CSS, JS, and even HTML will be created for you in the `dist/` folder. This version is ready to be packaged into a packaged app or uploaded to a server as a hosted app. You can even run `recroom deploy` to deploy directory to your git repository's GitHub pages branch, if applicable.
+
+If you want to dive deeper into the tasks Rec Room offers, you can look at a new project's `Gruntfile.js`, which includes all the tasks that Rec Room uses to package, serve, and test your app.
 
 [Makefile]: https://github.com/mozilla/high-fidelity/blob/f73b8b4bde0753512a2c905e66c8a84fafb56e5e/Makefile
 
@@ -293,6 +295,6 @@ This entire sample app is available at [worldclock.tofumatt.com](http://worldclo
 
 ## Try Using Rec Room for Your Next Web App
 
-You can try out [Rec Room on Github][]. Right now some docs and tools are still being abstracted and built, but you can start building apps today using it and filing bugs for missing features. We'd really love it if you could give it a try and let us know what's missing. Together we can build a cohesive and polished solution to the all-too-common question: "How do I build a web app?"
+You can try out [Rec Room on Github][]. Right now some docs and tools are still being abstracted and built, but you can start building apps today using it and filing bugs for missing features. We'd really love it if you could give it a try and let us know what's missing. Together we can build a cohesive and polished solution to the all-too-common question: "How do I build a mobile web app?"
 
 [Rec Room on Github]: https://github.com/mozilla/recroom
