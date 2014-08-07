@@ -20,7 +20,7 @@ Much of Rec Room came from a recent rewrite of the [HTML5 podcast app][]. I star
 
 I tried to take the best from that system and extract it into a set of tools and documentation that anyone can use.
 
-[HTML5 Podcasts app]: https://github.com/mozilla/high-fidelity/
+[HTML5 podcast app]: https://marketplace.firefox.com/app/podcasts
 [Mozilla's Rec Room]: https://github.com/mozilla/recroom
 [well over a year ago]: https://github.com/mozilla/high-fidelity/commit/6f023aa399b3d7b773d0f41c182d9f7b328a6184
 
