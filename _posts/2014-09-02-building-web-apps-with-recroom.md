@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Time to Get Hacking"
+title: "Building Mobile Web Apps with Rec Room"
 description: "The beginnings of a better way to build mobile web apps."
 tags: [open source, open web apps]
 image:
