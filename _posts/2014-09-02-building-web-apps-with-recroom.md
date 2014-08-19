@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building Mobile Web Apps with Rec Room"
+title: "Time to get hacking — Introducing Rec Room"
 description: "The beginnings of a better way to build mobile web apps."
 tags: [open source, open web apps]
 image:
@@ -10,7 +10,9 @@ image:
 share: true
 ---
 
-It's no secret that the best frameworks and tools are extracted, not created out of thin air. Since launching Firefox OS, Mozilla has been approached by countless app developers and web developers with a simple question: "How do I make apps for Firefox OS?" The answer: "it's the web; use existing web technologies" was—and still is—a good answer. But if you're looking for a streamlined way to build apps, I've built something from the things I've learned building web apps at Mozilla for years. From project creation to templating to deployment, [Mozilla's Rec Room][] will help you create awesome web apps in less time with more ease.
+It's no secret that the best frameworks and tools are extracted, not created out of thin air. Since launching Firefox OS, Mozilla has been approached by countless app developers and web developers with a simple question: "How do I make apps for Firefox OS?" The answer: "It's the web; use existing web technologies." was—and still is—a good answer.
+
+But if you don't already _have_ an existing toolchain as a web developer, I've been working on extracting something out of the way I've been creating web apps at Mozilla that you can use to write your next web app. From project creation to templating to deployment, [Mozilla's Rec Room][] will help you create awesome web apps in less time with more ease.
 
 In this post I'll walk through how to create a simple world clock web app with Rec Room, how to deploy it, and how you can try out Rec Room for yourself.
 
@@ -78,7 +80,7 @@ WorldClock.ClockController = Ember.ObjectController.extend({
         var _this = this;
 
         // Update the time every second.
-        setTimeout(function() {
+        Ember.run.later(function() {
             _this.set('localTime', new Date().toLocaleTimeString());
             _this.updateTime();
         }, 1000);
@@ -247,7 +249,7 @@ WorldClock.ClockController = Ember.ObjectController.extend({
         var _this = this;
 
         // Update the time every second.
-        setTimeout(function() {
+        Ember.run.later(function() {
             _this.set('localTime', moment().format('h:mm:ss a'));
 
             _this.get('model').forEach(function(model) {
@@ -287,7 +289,7 @@ If you want to dive deeper into the tasks Rec Room offers, you can look at a new
 
 ## See the app in action!
 
-This entire sample app is available at [worldclock.tofumatt.com](http://worldclock.tofumatt.com/) and the [source code is available on GitHub](https://github.com/tofumatt/tous-le-temps).
+This entire sample app is available at [worldclock.tofumatt.com](http://worldclock.tofumatt.com/) and the [source code is available on GitHub](https://github.com/tofumatt/tout-le-temps).
 
 [bower]: http://bower.io/
 [Ember Data]: https://github.com/emberjs/data
