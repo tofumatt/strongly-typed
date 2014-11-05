@@ -2,6 +2,7 @@
 layout: post
 title: "localForage: Offline Storage, Improved"
 description: "Learn how to store data offline in a web browser without breaking your brain."
+modified: 2014-10-05
 tags: [code, development, offline]
 image:
   feature: lockers.jpg
@@ -32,17 +33,17 @@ The inclusion of IndexedDB and WebSQL support allows you to store more data for 
 The traditional localStorage API, in many regards, is actually very nice; it's simple to use, doesn't enforce complex data structures, and requires *zero* boilerplate. If you had a configuration information in an app you wanted to save, all you need to write is:
 
 {% highlight js %}
-    // Our config values we want to store offline.
-    var config = {
-        fullName: document.getElementById('name').getAttribute('value'),
-        userId: document.getElementById('id').getAttribute('value')
-    };
+// Our config values we want to store offline.
+var config = {
+    fullName: document.getElementById('name').getAttribute('value'),
+    userId: document.getElementById('id').getAttribute('value')
+};
 
-    // Let's save it for the next time we load the app.
-    localStorage.setItem('config', JSON.stringify(config));
+// Let's save it for the next time we load the app.
+localStorage.setItem('config', JSON.stringify(config));
 
-    // The next time we load the app, we can do:
-    var config = JSON.parse(localStorage.getItem('config'));
+// The next time we load the app, we can do:
+var config = JSON.parse(localStorage.getItem('config'));
 {% endhighlight %}
 
 Note that we need to save values in localStorage as strings, so we convert to/from JSON when interacting with it.
@@ -115,7 +116,7 @@ WebSQL wouldn't be quite as verbose, but it would still require a fair bit of bo
 {% highlight js %}
 // Save our users.
 var users = [ {id: 1, fullName: 'Matt'}, {id: 2, fullName: 'Bob'} ];
-localforage.setItem('users', users, function(result) {
+localforage.setItem('users', users, function(err, result) {
     console.log(result);
 });
 {% endhighlight %}
@@ -150,8 +151,9 @@ request.send()
 Next time we can get the photo out of localForage with just three lines of code:
 
 {% highlight js %}
-localforage.getItem('user_1_photo', function(photo) {
-    // Create a data URI or something to put the photo in an <img> tag or similar.
+localforage.getItem('user_1_photo', function(err, photo) {
+    // Create a data URI or something to put the photo in an <img>
+    // tag or similar.
     console.log(photo);
 });
 {% endhighlight %}
@@ -162,7 +164,8 @@ If you don't like using callbacks in your code, you can use [ES6 Promises](http:
 
 {% highlight js %}
 localforage.getItem('user_1_photo').then(function(photo) {
-    // Create a data URI or something to put the photo in an <img> tag or similar.
+    // Create a data URI or something to put the photo in an <img>
+    // tag or similar.
     console.log(photo);
 });
 {% endhighlight %}
