@@ -1,6 +1,6 @@
 title:            Strongly Typed
 description:      An occassional exercise in writing.
-url:              http://0.0.0.0:4000
+url:              http://words.tofumatt.com
 
 # Owner/author information
 owner:
@@ -24,7 +24,7 @@ owner:
 background: triangular.png
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-3850161-15
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -38,7 +38,7 @@ links:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Montreal
-future:      true
+future:      false
 pygments:    true
 markdown:    kramdown
 
