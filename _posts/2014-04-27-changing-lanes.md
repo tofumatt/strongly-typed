@@ -5,24 +5,18 @@ description: "A run-down of some motorcycle gear in the aftermath of a crash."
 tags: [motorcycle gear, motorcycles]
 image:
   feature: shiver.jpg
-share: true  
+share: true
 ---
 
 Motorcycle crashes are nasty business. I've been in a few crashes and I've
-always been able to walk away from them. Part of that is some skill as a rider,
-and part of it is just luck. But a huge part is wearing gear that actually
-protected me from the impact. In every crash I've been in, my legs have fared
-the worst, because I almost always ride in jeans. I've also never been at
-fault, but thanks to the way motorcycle crashes can go down--motorcyclists are
-often left holding the bag. Here's what happened to me on April 16, 2014.
+always been able to walk away from them. This is largely thanks to motorcyle
+gear. In every crash I've been in, my legs have fared the worst, because I
+almost always ride in jeans. Here's what happened to me on April 16, 2014.
 
-I headed over to a motorcycle shop in LaSalle to pick up one of
-my motorcycles (a 2008 Aprilia Shiver). It wasn't the warmest day, but I was
-excited to get riding again--even if I'd have to take it slow on the way home.
-Unfortunately, I didn't get very far.
-
+I headed over to my motorcycle shop after it was damaged by a cab driver.
 Two blocks away from the dealership, a car changed into my lane without
-signalling. I crashed my motorcycle and the car drove off. A hit-and-run.
+signalling. I crashed my motorcycle and the car drove off.
+**A hit-and-run.** _Yay._
 
 Worse than that: as I lay there on the ground, people behind me simply
 drove on ahead instead of stopping to help me or see if I was okay. I managed
@@ -32,23 +26,24 @@ engine are exposed).
 
 Because no one who actually *saw* what happened stuck around, I didn't stick
 around to file a police report on-site. Motorcycle crashes are absolutely
-awful for the rider, even if they wind up coming out mostly okay as I did.
-If you see a bike crash happen on the road: please help the rider. Crashing
+awful for the rider, even if they aren't horribly injured.
+
+If you see a bike crash happen on the road: _please_ help the rider. Crashing
 feels awful, but having to get my bike off the street as cars continued to
-zip around me was _worse_.
+zip around me was _much worse_.
 
 ## All of the Gear, All of the Time?
 
 This isn't the first motorcycle accident I've been in, but I've been fortunate
 enough to never even break a bone from a crash. No doubt: the gear I wear has
-protected me from a hell of a lot.
+protected me from breaking my bones or my neck.
 
-I'm not one of the folks who insist that all of the gear, all of the time is
+I'm not one of those folks who insist that all of the gear, all of the time is
 the only way to ride. People ride bikes for all kinds of reasons, and it's up
 to them to determine what level of protection they want. It's a trade-off too;
 I wear leathers without armour because I find it lets me move better. Sometimes
-I'll wear nothing but a shirt, gloves, and helmet on a hot summer day cruising
-about in town. And I use my bike as a form of transportation; rarely do I
+I'll wear nothing but a gloves and helmet on a hot summer day cruising
+around town. And I use my bike as a form of transportation; rarely do I
 want to be wearing armoured, leather riding pants when I arrive at a restaurant.
 
 Generally I'd advocate that always wearing a helmet and gloves is a smart
@@ -60,7 +55,7 @@ but get right back to work afterward.
 
 ## The Gear
 
-I wanted to review the gear I crashed in, talk about how well it stood up to
+I wanted to review the gear I was wearing, talk about how well it stood up to
 the crash, and whether I'd buy it again.
 
 I'll skip my jacket, as it's a tailored, leather motorcycle jacket. It's safe
@@ -135,6 +130,9 @@ didn't flip or roll at all, so the damage is minimal. It might need a new
 handlebar, and there's definitely some cosmetic damage, but it shouldn't be
 anything too bad.
 
+_Update: The bike had a lot of damage. Hit-and-runs are the worst, even if you
+have insurance._
+
 ## What To Do
 
 Honestly, I wouldn't be surprised if the car driver didn't even notice I went
@@ -142,8 +140,8 @@ down, given how little attention they were paying. In their rearview mirror
 they wouldn't have seen me as I was on the ground. But no one else stopped or
 tried to get the driver to stop. _Please_ look out for motorcycles on the road.
 
-I know motorcyclists and car drivers don't always empathise with each other
-very well. Motorcyclists are angry at cars for never looking and hurting us.
+I know motorcyclists and car drivers don't always empathise with each other.
+Motorcyclists are angry at cars for never looking and hurting us.
 Car drivers are freaked out of aggressive bikers who filter poorly and ride
 like the street is a race track.
 
