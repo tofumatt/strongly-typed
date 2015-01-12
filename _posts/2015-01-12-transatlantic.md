@@ -46,7 +46,7 @@ But: if you're a British citizen working outside the UK, you'll need more docume
 
 First thing's first: the self-employed sponsor should be able to "move" their business. _Without the intent to move their business, UK Immigration will refuse your application._ Proving this is as simple as writing it in a letter, but it's worth mentioning.
 
-**The British sponsor is going to need to make at least £18,600.** You must convert _any non-pound amounts to GBP_. You _must_ do this at [oanda.com](http://www.oanda.com/currency/converter/). To add to the annoyance: you must use exchange rate on the day you got the money. Have fun with that if you have lots of deposits!
+**The British sponsor must make at least £18,600/year.** You must convert _any non-pound amounts to GBP_. You _must_ do this at [oanda.com](http://www.oanda.com/currency/converter/). To add to the annoyance: you must use exchange rate on the day you got the money. Have fun with that if you have lots of deposits!
 
 I hope you kept good business records! You'll need to prove your business makes money. Print out your bank statements for the *last two fiscal years in your country*. Then **highlight every deposit and link it to an invoice**. Afterward, find every transfer from your business account to your personal bank account. This is to prove your business pays you.
 
