@@ -4,7 +4,7 @@ title: "Transatlantic"
 description: "How to apply for a settlement visa for the UK when your sponsor is self-employed outside the UK."
 tags: [expat, uk, visas]
 location: Montreal, Canada
-image: /assets/article_images/transatlantic/cover.jpg
+image: /assets/article_images/2015-01-12-transatlantic/cover.jpg
 credit: Charlie Marshall
 creditlink: https://www.flickr.com/photos/100915417@N07/11935226285/
 ---
