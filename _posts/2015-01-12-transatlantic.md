@@ -34,7 +34,7 @@ In 2012 UK Parliament updated immigration rules for British citizens with non-EU
 <span id="r-1"></span>
 I am not a fan of this rule. Fortunately, my girlfriend makes enough to qualify us. We're great immigrants<sup>[1](#footnote-1)</sup> as we're both creating new jobs in the UK.
 
-## Proving your income
+## Proof of income
 
 If your sponsor (British citizen) lives and works in the UK, proving your income is easy. Even if your sponsor is self-employed in the UK, the process isn't hard.
 
@@ -54,7 +54,7 @@ Finally, make sure you include your business's registration papers.
 
 **Follow the above and you will prove you meet the financial requirement set by the UK even though you aren't employed in the UK!**
 
-### The rest of the process
+### The hard part is over
 
 The rest of the process is simple: the [rules are online][rules]. Some of the wording on the site makes it seem like your partner being outside the UK excludes you. It doesn't; _applying from outside the UK is fine_. Your British sponsor is "living in the UK permanently" as long as they're a citizen. 
 
