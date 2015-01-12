@@ -3,11 +3,10 @@ layout: post
 title: "The Likes of Us"
 description: "Implicit trust of companies strikes me as weird."
 tags: [commentary]
-image:
-  feature: like.jpg
-  credit: Adam Fagen
-  creditlink: https://www.flickr.com/photos/afagen/5133070639
-share: true
+location: Montreal, Canada
+credit: Adam Fagen
+creditlink: https://www.flickr.com/photos/afagen/5133070639
+image: /assets/article_images/2014-11-05-the-likes-of-us/cover.jpg
 ---
 
 Companies are not your friend. They don't need you to root for them. They are

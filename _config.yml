@@ -1,66 +1,54 @@
-title:            Strongly Typed
-description:      An occassional exercise in writing.
-url:              http://words.tofumatt.com
-
-# Owner/author information
-owner:
-  name:           Matthew Riley MacPherson
-  avatar:         matt-ns.jpg
-  bio:            "A web developer living in Montreal, Canada who works at Mozilla. Quite fond of coffee, hacking, motorcycles, and travel."
-  email:          matt@lonelyvegan.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        tofumatt
-  facebook:
-  github:         tofumatt
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
-
-# Background image to be tiled on all pages
-background: triangular.png
-
-# Analytics and webmaster tools stuff goes here
 google_analytics: UA-3850161-15
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  # - title: About Me
-  #   url: http://lonelyvegan.com
-  #   external: true
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Montreal
-future:      false
+# Build settings
+markdown: redcarpet
 highlighter: pygments
-markdown:    kramdown
 
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:year/:month/:day/:title/
+# Site settings
+title: "Strongly Typed"
+description: An occassional exercise in writing.
+email: matt@lonelyvegan.com
+permalink: /:year/:month/:day/:title/
+#blog logo
+logo: "/assets/images/logo.png"
+home_icon: "/assets/images/home_icon.png"
+# blog cover
 
-# Amount of post to show on home page
+name: 'Matthew Riley MacPherson'
+author: 'Matt'
+author_image: "/assets/images/author.jpg"
+
 paginate: 5
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
+url: "http://words.tofumatt.com" # the base hostname & protocol for your site
+baseurl: ""
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
+# social icons and sharing options
+social:
+  - icon:   twitter
+    url:    https://twitter.com/tofumatt
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: "&amp;url="
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+#  - icon:  facebook
+#    url:   https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
+
+  - icon:   github
+    url:    https://github.com/tofumatt
+    desc:   Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+#  - icon:  google-plus
+#    url:   https://google.com/???
+#    desc:  Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:

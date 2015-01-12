@@ -3,11 +3,10 @@ layout: post
 title: "On Including the Uninclusive"
 description: "Why “Bigot” isn’t the best word to use when trying to change someone’s mind."
 tags: [argument, mozilla, words]
-image:
-  feature: piano-keys.jpg
-  credit: katsrcool
-  creditlink: http://www.flickr.com/photos/katsrcool/12644430575/
-share: true
+location: Montreal, Canada
+image: /assets/article_images/2014-03-26-on-including-the-uninclusive/cover.jpg
+credit: katsrcool
+creditlink: http://www.flickr.com/photos/katsrcool/12644430575/
 ---
 
 I work as a software developer at [Mozilla](https://mozilla.org/); I'm also
@@ -34,8 +33,10 @@ The way to do that is **not** to call them a bigot and dismiss them.
 
 ## Prop Eich
 
-<img id="i-like-eich" src="{{ site.url }}/images/eich.jpg" alt="I like Eich pin." title="(Photo credit: Chris Lonnen)" class="photograph">Brendan Eich, the guy who wrote
-JavaScript and has been a part of Mozilla since its inception,
+<img id="i-like-eich" src="/assets/article_images/2014-03-26-on-including-the-uninclusive/eich.jpg" alt="I like Eich pin, created well before this thing blew up.">
+
+Brendan Eich, the guy who wrote JavaScript and has been a part of Mozilla since
+its inception,
 [became Mozilla's CEO on Monday, March 24, 2014](https://blog.mozilla.org/blog/2014/03/24/mozilla-leadership-changes/).
 A few years ago it came to light that he had
 [donated $1,000 USD](http://projects.latimes.com/prop8/donation/8930/)
@@ -96,7 +97,7 @@ Let's just *talk*.
 <small>Some interesting side notes specifically regarding Eich, queers, and Mozilla:</small>
 
 * <small>We [added trans benefits and a Code of Conduct](http://subfictional.com/2014/03/24/on-brendan-eich-as-ceo-of-mozilla) with Brendan in a leadership position.</small>
-* <small>I have spoke to no queer Mozilla people who feel Eich has ever made them uncomfortable. I have never heard of Eich attacking homosexuals at Mozilla.</small>
+* <small>No queer people at Mozilla have told me Eich has ever made them uncomfortable. I have never heard of Eich attacking homosexuals at Mozilla.</small>
 * <small>Conversely, Gerv [posted a call to action against Gay marriage](http://blog.gerv.net/2012/03/coalition-for-marriage-petition/) to [Planet Mozilla](http://planet.mozilla.org/), which prompted the creation of a [Code of Conduct](http://www.mozilla.org/en-US/about/governance/policies/participation/) at Mozilla, which Eich worked on.</small>
 * <small>Mozilla has amazing benefits for same-sex couples everywhere possible, including in many US states where it is not legally required.</small>
 * <small>Mozilla as a company [donated more for equal marriage rights than against](http://projects.latimes.com/prop8/results/?position=both&name=&employer=mozilla&amount_min=&amount_max=&city=&state=&zip=&search=Search).</small>

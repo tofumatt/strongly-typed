@@ -3,9 +3,8 @@ layout: post
 title: "Changing Lanes"
 description: "A run-down of some motorcycle gear in the aftermath of a crash."
 tags: [motorcycle gear, motorcycles]
-image:
-  feature: shiver.jpg
-share: true
+location: Montreal, Canada
+image: /assets/article_images/2014-04-27-changing-lanes/cover.jpg
 ---
 
 Motorcycle crashes are nasty business. I've been in a few crashes and I've
@@ -66,7 +65,9 @@ motorcycling in mind, you should at least be wearing thick leathers.
 
 ### My Helmet
 
-<img src="{{ site.url }}/images/nolan.jpg" alt="My Nolan N43E Trilogy" class="photograph">The helmet I was wearing was my 2012 Nolan N43E Trilogy, from
+<img src="/assets/article_images/2014-04-27-changing-lanes/nolan.jpg" alt="My Nolan N43E Trilogy">
+
+The helmet I was wearing was my 2012 Nolan N43E Trilogy, from
 [Scooturismo Motorscooter Ltd.](http://www.scooturismo.com/) in Halifax, Canada.
 It's a fancy helmet that has a **huge** visor, allowing for fantastic
 field-of-view. This is really important, as I find many full-face helmets add
@@ -93,6 +94,8 @@ give it a look. Nolan make fantastic, and very versatile, helmets.
 
 ### My Gloves
 
+<img src="/assets/article_images/2014-04-27-changing-lanes/c10.jpg" alt="My Alpinestars Gloves">
+
 Gloves are one of the most important and overlooked pieces of protective gear
 you can wear on a bike. Breaking bones in your fingers or wrist, nevermind
 getting horrible road rash, is easy as hell in a motorcycle accident.
@@ -102,7 +105,7 @@ I was wearing my [Alpinestars C-10 windproof gloves](http://www.canadasmotorcycl
 they're comfy, waterproof, warm, and windproof. They look pretty decent off
 the bike as well. Great for a commuter.
 
-<img src="{{ site.url }}/images/c10.jpg" alt="My Alpinestars Gloves" class="photograph left">The leather in the palms suffered a fair bit, and I think it's safe to say
+The leather in the palms suffered a fair bit, and I think it's safe to say
 these are one-crash-gloves, but my hands aren't the least bit sore and suffered
 zero road rash, so I'd say the gloves did a fantastic job.
 
@@ -111,7 +114,9 @@ Icon, but I'll be giving Alpinestars a closer look in the future too.
 
 ### My Boots
 
-<img src="{{ site.url }}/images/x-street.jpg" alt="My motorbike shoes" class="photograph">I was wearing motorcycle riding shoes, in this case [TCX X-Street Waterproofs](http://www.canadasmotorcycle.ca/tcx-x-street-waterproof-leather-shoes.html). They look
+<img src="/assets/article_images/2014-04-27-changing-lanes/x-street.jpg" alt="My motorbike shoes">
+
+I was wearing motorcycle riding shoes, in this case [TCX X-Street Waterproofs](http://www.canadasmotorcycle.ca/tcx-x-street-waterproof-leather-shoes.html). They look
 like high-top sneakers, but they're waterproof, breathable, and very
 protective. They've survived two motorcycle crashes and are still tough.
 They're also the most comfortable motorcycle shoes I've owned. I won't need to

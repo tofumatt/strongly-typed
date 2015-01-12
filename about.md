@@ -2,16 +2,15 @@
 layout: page
 permalink: /about/
 title: About Strongly Typed
-tags: []
-image:
-  feature: sport-touring.jpg
 ---
 
 Strongly Typed is an occasional exercise in writing by [me, Matthew Riley MacPherson](http://tofumatt.com). I think about certain things--code, coffee, development, motorcycle gear, and travel--often, so I wanted a soapbox on which to shout about them.
 
+<img src="/assets/images/about-me.jpg" alt="A photo of me" id="about-me-photo">
+
 ## About Me, Matthew Riley MacPherson
 
-<img src="{{ site.url }}/images/matt-ns.jpg" alt="A photo of me" id="about-me-photo" class="about-photo">I'm a twenty-six year-old web developer and motorcycle junkie living in Montreal, Canada. I work at Mozilla on web apps. I write apps, work to discover best practices, and teach others how to write great software with standards-based technology.
+I'm a twenty-six year-old web developer and motorcycle junkie living in Montreal, Canada. I work at Mozilla on web apps. I write apps, work to discover best practices, and teach others how to write great software with standards-based technology.
 
 I'm originally from a [tiny city](http://en.wikipedia.org/wiki/Sydney,_Nova_Scotia) on an [island famed for a trail](http://en.wikipedia.org/wiki/Cape_Breton_Island) off the Atlantic Ocean. I grew up mostly [in Canada](http://en.wikipedia.org/wiki/Calgary) (and a bit [in the United States](http://en.wikipedia.org/wiki/Lincoln,_Nebraska)) and moved to [Halifax](http://en.wikipedia.org/wiki/Halifax_Regional_Municipality) when I was eighteen. I [took a summer job](http://novascotia.ca/) as a "web development intern" which was extended to a nearly four year tenure.
 

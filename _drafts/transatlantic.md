@@ -3,11 +3,10 @@ layout: post
 title: "Transatlantic"
 description: "How to apply for a settlement visa for the UK when your sponsor is self-employed outside the UK."
 tags: [expat, uk, visas]
-image:
-  feature: clifton-bridge-by-night.jpg
-  credit: Charlie Marshall
-  creditlink: https://www.flickr.com/photos/100915417@N07/11935226285/
-share: true
+location: Montreal, Canada
+image: /assets/article_images/transatlantic/cover.jpg
+credit: Charlie Marshall
+creditlink: https://www.flickr.com/photos/100915417@N07/11935226285/
 ---
 
 For the past year, my girlfriend and I have been exploring a move to the United Kingdom. While we were first thinking of moving to Spain, we decided on the UK for a few reasons. Sarah is a British citizen by birth, so moving to anywhere in the EU was possible. You'd think her being British would make it easier for us to move to the UK than to any other EU country. But: you'd be wrong!

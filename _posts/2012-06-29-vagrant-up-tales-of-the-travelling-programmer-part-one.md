@@ -3,12 +3,11 @@ layout: post
 title: "vagrant up"
 description: "Advice from an oft-travelling developer on remote work."
 modified: 2014-02-08
-tags: []
-image:
-  feature: bangkok-river-perspective.jpg
-  credit: Wakx
-  creditlink: http://www.flickr.com/photos/wak1/234816581/
-share: true  
+tags: [travel]
+location: Halifax, Canada
+image: /assets/article_images/2012-06-29-vagrant-up-tales-of-the-travelling-programmer-part-one/cover.jpg
+credit: Wakx
+creditlink: http://www.flickr.com/photos/wak1/234816581/
 ---
 
 Since May 2011, I have been a full-time remote worker. At first the idea of simply working from my apartment instead of an office was exciting and novel, but eventually I started branching out, but slowly: entire days at a cafe or a friend's couch; later: other cities, and eventually other continents entirely. After spending months working in foreign countries, I learned a lot about how to work remotely, be it from down the street or an ocean away.
@@ -37,13 +36,17 @@ Take a break and allow yourself to be wowed by your new environment before smash
 
 Once you have mobile data you can still do things like reply to email, chat with coworkers, and even attend Skype meetings, but don't try to get down and code like crazy your first day in a new place. Get confident that you have a sense of where you are on a map, a bit about how transit there works, and what the social norms are around remote working where you are.
 
-<img src="{{ site.url }}/images/bikes-in-bangkok.jpg" alt="Soi in Bangkok with many motorcycles and motorcyclists outside" class="photograph" title="Across from my apartment in Thailand was a very cool motorcycle repair shop, but there weren't many cafes.">For instance, in Bangkok it was pretty hard to just walk into a random cafe and connect to their free wifi; there were remarkably few cafes in my area at all! Starbucks is a safe choice for a quick coffee and wifi in North America, but the Starbucks in Bangkok had pay-per-minute wifi. If you take what you know about home, try to apply it to a foreign place, and start working immediately: you're gonna have a bad time.
+<img src="/assets/article_images/2012-06-29-vagrant-up-tales-of-the-travelling-programmer-part-one/bikes-in-bangkok.jpg" alt="Across from my apartment in Thailand was a very cool motorcycle repair shop, but there weren't many cafes.">
+
+For instance, in Bangkok it was pretty hard to just walk into a random cafe and connect to their free wifi; there were remarkably few cafes in my area at all! Starbucks is a safe choice for a quick coffee and wifi in North America, but the Starbucks in Bangkok had pay-per-minute wifi. If you take what you know about home, try to apply it to a foreign place, and start working immediately: you're gonna have a bad time.
 
 By getting to know my neighbourhood, I found an <a href="https://foursquare.com/v/touch-cafe/4c4551f62d3ec9b6c51f30ae">English-friendly cafe with unlimited wifi and power outlets I could frequent</a>. Aces.
 
 ## Get Mobile Data
 
-<img src="{{ site.url }}/images/meme-starbucks-wifi.png" alt="The Starbucks wifi... is not free." class="photograph left" title="The sad truth of every Starbucks I've been to outside North America.">Don't feel disconnected when you're already in a foreign place. Usually people look for ways to disconnect and not be tethered to their smartphone and work; when you're far away from "home", you're going to have the opposite problem. Either pick up a cheap unlocked Android phone or get a factory-unlocked phone and a <a href="http://prepaidwithdata.wikia.com/wiki/Prepaid_SIM_with_data">prepaid data plan</a>. Fretting over not being able to speak a language is hard enough; don't fret over your Internet connection or you will go insane.
+<img src="/assets/article_images/2012-06-29-vagrant-up-tales-of-the-travelling-programmer-part-one/meme-starbucks-wifi.png" alt="Paid wifi: the sad truth of every Starbucks I've been to outside North America.">
+
+Don't feel disconnected when you're already in a foreign place. Usually people look for ways to disconnect and not be tethered to their smartphone and work; when you're far away from "home", you're going to have the opposite problem. Either pick up a cheap unlocked Android phone or get a factory-unlocked phone and a <a href="http://prepaidwithdata.wikia.com/wiki/Prepaid_SIM_with_data">prepaid data plan</a>. Fretting over not being able to speak a language is hard enough; don't fret over your Internet connection or you will go insane.
 
 ## Overcommunicate… Obscenely
 
@@ -59,7 +62,9 @@ There are some travellers who visit Bangkok and never venture outside its very t
 
 An example: I spent last May in Barcelona, where free wifi at cafes simply did not exist. Even Starbucks had a convoluted system that gave you forty-five minutes of wifi 'til you were kicked off the network until you ordered another coffee. That works out to about $4/hour for wifi, not to mention a serious over-caffination problem after a few hours. But working from my apartment wasn't always ideal, especially as Internet speeds there were a bit lousy.
 
-<img src="{{ site.url }}/images/barcelona-internet-cafe.jpg" alt="An Internet cafe in Barcelona, with ancient MSN and Netscape signs" class="photograph" title="Although this wasn't far from my apartment in Barcelona, Internet was not on every corner there as it is in North America. Not that I'm convinced MSN Network and Netscape would stand up to a modern web developer's standards anyway.">I don't frequent co-working spots where I live but in Barcelona: co-working offered the best Internet in terms of both price and speed. Mobile data was expensive and slow in Barcelona, so I decided to work from a local Barcelona co-working joint: <a href="http://domenech7.com/">Domènech 7</a>. It was perfect: I got to experience co-working as it was done in Barcelona, meet cool locals (including one who is visiting Montreal this summer), and have a swell place to work out of. There are lots of things that are stressful about travel: don't make your Internet connection one of them. **Trust me.**
+<img src="/assets/article_images/2012-06-29-vagrant-up-tales-of-the-travelling-programmer-part-one/barcelona-internet-cafe.jpg" alt="Although this wasn't far from my apartment in Barcelona, Internet was not on every corner there as it is in North America. Not that I'm convinced MSN Network and Netscape would stand up to a modern web developer's standards anyway.">
+
+I don't frequent co-working spots where I live but in Barcelona: co-working offered the best Internet in terms of both price and speed. Mobile data was expensive and slow in Barcelona, so I decided to work from a local Barcelona co-working joint: <a href="http://domenech7.com/">Domènech 7</a>. It was perfect: I got to experience co-working as it was done in Barcelona, meet cool locals (including one who is visiting Montreal this summer), and have a swell place to work out of. There are lots of things that are stressful about travel: don't make your Internet connection one of them. **Trust me.**
 
 ## Enough to Get Off the Ground
 
@@ -67,7 +72,9 @@ I think working remotely while travelling can be a really rewarding experience: 
 
 Switching up your environment and routines can be a great way to find weak spots. They could be with yourself or with your process; it could even be you discover you're operating under some assumptions you just take for granted. For a community-driven, distributed, and open source organization like Mozilla, or even for Webdev as its own entity, it's important to take stock of how you work; for some things: it's the only way you'll ever get better at it.
 
-<img src="{{ site.url }}/images/bangkok-rooftop.jpg" alt="Rooftop photo of Ratchada" class="photograph left" title="Taken from the rooftop of my place in Bangkok. Unlike New York or Europe where it feels more like the old mixing with the new, Bangkok felt like a bizarre clash of Buddhas and technology; I got very used to seeing monks carrying their smartphones around town.">I really hope this post has sparked your interest in travelling and working -- after all: it's really quite fun. For those of you already interested: I hope this has convinced you that it's more doable than you think.
+<img src="/assets/article_images/2012-06-29-vagrant-up-tales-of-the-travelling-programmer-part-one/bangkok-rooftop.jpg" alt="Taken from the rooftop of my place in Bangkok. Unlike New York or Europe where it feels more like the old mixing with the new, Bangkok felt like a bizarre clash of Buddhas and technology; I got very used to seeing monks carrying their smartphones around town.">
+
+I really hope this post has sparked your interest in travelling and working -- after all: it's really quite fun. For those of you already interested: I hope this has convinced you that it's more doable than you think.
 
 Next time I'll blog about some of the lessons I learned about my own and my teams' workflows: what worked, what didn't, and how we improved things for remote workers in any timezone.
 

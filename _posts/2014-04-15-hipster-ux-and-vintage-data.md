@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Hipster UX and Vintage Data"
+title: "Stale Data is Better Than No Data At All"
 description: "A trick to make your web app fast without doing anything."
 tags: [apps, javascript, mozilla, web]
-image:
-  feature: loading.jpg
-share: true
+location: Montreal, Canada
+image: /assets/article_images/2014-04-15-hipster-ux-and-vintage-data/cover.jpg
 ---
 
 As web developers, we too often wait until we have _all of the data_ before we
@@ -35,7 +34,9 @@ a chat app where things are happening instantly, but some concepts still apply.
 
 ## Expiration Dates
 
-<a href="http://flickr.com/photos/orinrobertjohn/158456029" class="photo-link" target="_blank"><img src="{{ site.url }}/images/best-before.jpg" alt="Best before date on a glass bottle." title="(Photo credit: Orin Zebest)" class="photograph"></a>Given the choice between old data and no data: I would rather the stale data. But it's also important to question our assumptions
+<a href="http://flickr.com/photos/orinrobertjohn/158456029"><img src="/assets/article_images/2014-04-15-hipster-ux-and-vintage-data/best-before.jpg" alt="Best before date on a glass bottle."></a>
+
+Given the choice between old data and no data: I would rather the stale data. But it's also important to question our assumptions
 about what makes data _actually_ stale. Checking to see if our cache is
 out-of-date on a **server** is generally very fast. Or we can cache data as we
 build it and expire it in our models. On the client, we need to make a request
@@ -77,7 +78,7 @@ tonne of caching work very easily.
 Thanks to asynchronous JavaScript APIs, we can fetch many
 smaller pieces of data at once, and we can populate pieces of the DOM as we get
 data, rather than showing an empty screen until everything is available. We're
-already caching the hell out of API responses [using client-side storage](http://mozilla.github.io/localForage), but remember too that 
+already caching the hell out of API responses [using client-side storage](http://mozilla.github.io/localForage), but remember too that
 Doing this increases how fast our apps _feel_, even if the time to render all
 the content is the same (or even slightly _faster_).
 

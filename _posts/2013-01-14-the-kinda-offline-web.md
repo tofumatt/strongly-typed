@@ -3,16 +3,15 @@ layout: post
 title: "The Kinda Offline Web"
 description: "Offline technology is mature enough to use, but do most web developers know how?"
 tags: [code, development, offline]
-image:
-  feature: storage-shed-hdr.jpg
-  credit: katsrcool
-  creditlink: http://www.flickr.com/photos/40775084@N05/9475526152/
-share: true
+location: Montreal, Canada
+image: /assets/article_images/2013-01-14-the-kinda-offline-web/cover.jpg
+credit: katsrcool
+creditlink: http://www.flickr.com/photos/40775084@N05/9475526152/
 ---
 
 Offline technology is mature enough to use, but do most web developers know how? Creating a web app that functions entirely offline is fraught with gotchas and involves many technologies working together. Most developers will recommend native apps for an offline experience, but native apps don't have to be the _only_ way.
 
-----
+## "Web App"
 
 The phrase "web app" has traditionally meant something like [Basecamp](http://basecamp.com/) -- an app accessed at a URL. But many traditional web apps are online, slower that locally-hosted apps with no latency, and bound to a browser. At Mozilla, we're trying to change all of this with FirefoxOS and Open Web Apps. One of the biggest changes to what we call a web app can be encompassed in one word: **offline**.
 
@@ -22,7 +21,7 @@ I knew a lot about the localStorage API and even some things about Appcache, but
 
 ## Ingredients
 
-<a href="http://www.flickr.com/photos/underneath/2316887506/" class="photo-link" target="_blank"><img id="onions-and-peppers" src="{{ site.url }}/images/onions-and-peppers.jpg" alt="Cooking with onions and peppers." title="(Photo credit: Pam Culver)" class="photograph"></a>So just what does one need in order to make a web app function offline? Turns out the list isn't too long:
+So just what does one need in order to make a web app function offline? Turns out the list isn't too long:
 
 * **Appcache** is basically mandatory
 * **localStorage** allows you to store user data on the client
@@ -52,9 +51,9 @@ The main thing to remember is that you'll likely want to abstract getting/settin
 
 Appcache is the technology that allows you to explicitly instruct the browser which assets on your (or someone else's) server to cache locally for your app to request. It's powered by a very simple "appcache manifest", [which looks like this](https://github.com/tofumatt/face-value/blob/971910ac583538df71910958817afaf286af4c6b/www/manifest.appcache).
 
-<a href="http://www.flickr.com/photos/wonderlane/4583438114/" class="photo-link" target="_blank"><img src="{{ site.url }}/images/wires.jpg" alt="A series of wires." title="(Photo credit: Wonderlane)" class="photograph left"></a>It powers [facevalueapp.com](http://facevalueapp.com/) and ensures it works even once your computer or phone is offline. It's an awesome idea, but it's got some rough edges that you really need to be aware of before attempting to leverage it. I think that had someone warned me about these pitfalls before I started building Face Value I'd have been much better off (and spent less time cursing Appcache).
+It powers [facevalueapp.com](http://facevalueapp.com/) and ensures it works even once your computer or phone is offline. It's an awesome idea, but it's got some rough edges that you really need to be aware of before attempting to leverage it. I think that had someone warned me about these pitfalls before I started building Face Value I'd have been much better off (and spent less time cursing Appcache).
 
-### It's Oh So Quiet
+### Appcache rarely displays errors
 
 If you're used to using Firebug or Chrome/Firefox/Safari Developer Tools, you'll notice there still aren't amazing tools for inspecting stuff in Appcache. Actually, Appcache still doesn't have a very mature API and its support in browsers is still early. Hopefully this is made better in the future, but the two things you need to know are:
 
@@ -73,7 +72,7 @@ Just be careful about including foreign assets in your Appcache manifest -- you'
 
 ## Conditional Network Access
 
-<a href="http://www.flickr.com/photos/keithius/3888389124/" class="photo-link" target="_blank"><img id="cell-tower" src="{{ site.url }}/images/cell-tower.jpg" alt="A cellphone tower." title="(Photo credit: Keith Survell)" class="photograph"></a>It's a common scenario to have an app that functions perfectly offline, but does make occasional network requests to do things like update data. Face Value is an excellent example of this: all currency and denomination is stored offline, but currency worth (accessed via Yahoo's Finance API) and currency/denomination data (accessed via Face Value's server) are updated once a day. More accurately, if it's been more than twenty four hours since you last opened the app, Face Value makes a network request to update its dataset before firing a callback that launches the app. Once the data is loaded, Face Value continues loading as normal; if it's been less than twenty four hours since you last updated, the page is immediately rendered without any network requests.
+It's a common scenario to have an app that functions perfectly offline, but does make occasional network requests to do things like update data. Face Value is an excellent example of this: all currency and denomination is stored offline, but currency worth (accessed via Yahoo's Finance API) and currency/denomination data (accessed via Face Value's server) are updated once a day. More accurately, if it's been more than twenty four hours since you last opened the app, Face Value makes a network request to update its dataset before firing a callback that launches the app. Once the data is loaded, Face Value continues loading as normal; if it's been less than twenty four hours since you last updated, the page is immediately rendered without any network requests.
 
 Unfortunately, in earlier versions of the app, I didn't anticipate this network request failing because I usually tested the app's offline capability immediately after I launched a fresh version of the app, meaning it was mere minutes since I last obtained this currency data. So my app worked fine in terms of localStorage and Appcache, but that network request failing just wasn't something I encountered in my manual testing!
 

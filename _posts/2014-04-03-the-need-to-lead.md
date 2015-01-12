@@ -3,11 +3,10 @@ layout: post
 title: "The Need to Lead"
 description: "Why the mob might think they won, but didn't."
 tags: [community, mozilla, words]
-image:
-  feature: protest-in-paris.jpg
-  credit: Antonin Rémond
-  creditlink: https://www.flickr.com/photos/antonin_remond/8220884938/
-share: true
+location: Montreal, Canada
+image: /assets/article_images/2014-04-03-the-need-to-lead/cover.jpg
+credit: Antonin Rémond
+creditlink: https://www.flickr.com/photos/antonin_remond/8220884938/
 ---
 
 CEOs need to lead by making decisions. That's their role in an organization: to
@@ -29,7 +28,8 @@ nuanced than that.
 
 ## The Face of the Company
 
-<img id="the-bobs" src="{{ site.url }}/images/the-bobs-office-space.jpg" alt="The Bobs, from the movie Office Space" title="What would you say, you do here?" class="photograph">The title CEO stands for Chief **Executive** Officer--a CEO's job is to make
+<img src="/assets/article_images/2014-04-03-the-need-to-lead/the-bobs-office-space.jpg" alt="What would you say, you do here?">
+The title CEO stands for Chief **Executive** Officer--a CEO's job is to make
 decisions on behalf of the entire company; to _execute_. Though Eich's stance on gay marriage is something
 I find exclusionary and generally _awful_ as a queer guy, I don't think it's why
 he can't be Mozilla's CEO. While I would prefer my company's CEO be socially
@@ -103,7 +103,8 @@ So while the mob might feel like it won, proving that there is some kind of
 zero-tolerance for homophobia in America, Eich's departure from Mozilla
 tells a slightly more nuanced story than that.
 
-<img src="{{ site.url }}/images/mozlove.png" alt="Heart Mozilla" title="What would you say, you do here?" class="photograph">**I'm not conflicted about this, even if it is saddening.** While I was hopeful
+<img src="/assets/article_images/2014-04-03-the-need-to-lead/mozlove.png" alt="Heart Mozilla">
+**I'm not conflicted about this, even if it is saddening.** While I was hopeful
 of Eich's ability to be our CEO, to lead us, and to be the face of Mozilla
 as we launched ourselves into exciting new places, it was clear to me over the
 past week or so that he was not suited to that role. I'm sad--deeply so--to

@@ -4,11 +4,10 @@ title: "localForage: Offline Storage, Improved"
 description: "Learn how to store data offline in a web browser without breaking your brain."
 modified: 2014-10-05
 tags: [code, development, offline]
-image:
-  feature: lockers.jpg
-  credit: Timo Heuer
-  creditlink: http://www.flickr.com/photos/upim/3569619036/
-share: true
+location: Montreal, Canada
+image: /assets/article_images/2014-02-12-localforage-offline-storage-improved/cover.jpg
+credit: Timo Heuer
+creditlink: http://www.flickr.com/photos/upim/3569619036/
 ---
 
 Web apps have had offline capabilities like saving large data sets and binary files for some time. You can even do things like [cache MP3 files](https://github.com/mozilla/high-fidelity). Browser technology can store data offline and plenty of it. The problem, though, is that the technology choices for how you do this are fragmented.
@@ -174,7 +173,7 @@ Admittedly, that's a bit of a contrived example, but [around](https://github.com
 
 ## Cross-browser support
 
-<a href="http://www.flickr.com/photos/nauright/7503503990/" class="photo-link" target="_blank"><img id="onions-and-peppers" src="{{ site.url }}/images/storage-today.jpg" alt="Storage facility." title="(Photo credit: romana klee)" class="photograph"></a>**localForage supports all modern browsers**. IndexedDB is [available in all modern browsers aside from Safari](http://caniuse.com/indexeddb) (IE 10+, IE Mobile 10+, Firefox 10+, Firefox for Android 25+, Chrome 23+, Chrome for Android 32+, and Opera 15+). Meanwhile, the stock Android Browser (2.1+) and Safari use WebSQL.
+**localForage supports all modern browsers**. IndexedDB is [available in all modern browsers aside from Safari](http://caniuse.com/indexeddb) (IE 10+, IE Mobile 10+, Firefox 10+, Firefox for Android 25+, Chrome 23+, Chrome for Android 32+, and Opera 15+). Meanwhile, the stock Android Browser (2.1+) and Safari use WebSQL.
 
 In the worst case, localForage will fall back to localStorage, so you can at least store basic data offline (though not blobs and much slower). It at least takes care of automatically converting your data to/from JSON strings, which is how localStorage needs data to be stored.
 
