@@ -47,6 +47,12 @@ If you're living with your British partner, you just need evidence of this. I us
 
 [Gov.uk]: https://www.gov.uk/join-family-in-uk
 
+## How long will it take?
+
+You can find [average visa processing times](https://visa-processingtimes.homeoffice.gov.uk/) from the UK's website. Immigration emailed me Dec 17, 2014 stating they received my application. I had my passport in-hand with a visa on January 8, 2015. Immigration took **three weeks** to process my application. The large amount of documentation I sent did not seem to delay processing time.
+
+I started working with 1st Contact on October 3, 2014. It took two months to gather documents, fill out forms, get things translated, and attend a visa appointment. **I spent a total of three months to get my visa.**
+
 ## Should I use a visa company?
 
 I can't speak for all visa companies or lawyers, but I can say I used one and am happy I did. That said, I did because I could afford it and I had **no idea what I was doing** when I started this process. If my situation were less complicated I might have even done it on my own. I would say even if you know the rules, using a visa company will save you some stress.
