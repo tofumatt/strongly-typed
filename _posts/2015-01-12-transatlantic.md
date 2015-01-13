@@ -32,7 +32,7 @@ You can find plenty of stories about a United Kingdom flooded by immigrants or a
 In 2012 UK Parliament updated immigration rules for British citizens with non-EU spouses. British citizens [must make at least £18,600/year to sponsor their partners](http://www.theguardian.com/law/2014/jul/11/appeal-court-18600-foreign-spouse-uk). This was--and still is--a controversial rule. On minimum wage, a British citizen would not earn enough to sponsor their spouse. Earning a decent wage in a poorer country excludes UK expats from returning with their families.
 
 <span id="r-1"></span>
-I am not a fan of this rule. Fortunately, my girlfriend makes enough to qualify us. Together, we're great immigration candidates<sup>[1](#footnote-1)</sup> as we're both creating new jobs in the UK.
+I am not a fan of this rule. Fortunately, my girlfriend makes enough to qualify us. I'm a great immigration candidate<sup>[1](#footnote-1)</sup> as I'm creating a new job in the UK.
 
 ## Proof of income
 
@@ -85,5 +85,5 @@ I hope the UK changes the rules on family settlement visas soon. They are, at th
 ---
 
 <ol id="footnotes">
-  <li id="footnote-1">I am <em>transferring</em> my position at Mozilla to the UK, so I'm <strong>creating</strong> a job there. And my girlfriend is bringing her business, doing the same. <a href="#r-1">↩</a></li>
+  <li id="footnote-1">I am <em>transferring</em> my position at Mozilla to the UK; my girlfriend is bringing her business. We are both moving jobs to the UK. <a href="#r-1">↩</a></li>
 </ol>
