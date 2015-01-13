@@ -21,7 +21,7 @@ The UK’s Visa and Immigration Office is unclear on the rules for British citiz
 
 ## The UK and immigration
 
-Sentiment around immigration in the UK is similat to in the USA (see: heated). It's a wealthy country near many poorer countries. And unlike the borders between USA and Mexico, **borders between have-not EU countries and the UK are _open_**. Illegal immigration is a problem in the UK, but many consider *legal* EU immigration as big a problem.
+Sentiment around immigration in the UK is similar to in the USA (see: heated). It's a wealthy country near many poorer countries. And unlike the borders between USA and Mexico, **borders between have-not EU countries and the UK are _open_**. Illegal immigration is a problem in the UK, but many consider *legal* EU immigration as big a problem.
 
 You can find plenty of stories about a United Kingdom flooded by immigrants or about a London where no one speaks English anymore. _These views are sensationalist at best, blatantly ignorant at worst._ Open borders supply other countries supplies cheap labour--both skilled and unskilled.
 
