@@ -23,7 +23,7 @@ The UK’s Visa and Immigration Office is unclear on the rules for British citiz
 
 Sentiment around immigration in the UK is similat to in the USA (see: heated). It's a wealthy country near many poorer countries. And unlike the borders between USA and Mexico, **borders between have-not EU countries and the UK are _open_**. Illegal immigration is a problem in the UK, but many consider *legal* EU immigration as big a problem.
 
-You can find plenty of stories about a United Kingdom flooded by immigrants or about a London where no one speaks English anymore. (And there's always Birmingham, ostensibly a town where non-Muslims are no longer allowed.)  _These views are sensationalist at best, blatantly ignorant at worst._ Open borders with other countries supplys cheap labour--both skilled and unskilled. 
+You can find plenty of stories about a United Kingdom flooded by immigrants or about a London where no one speaks English anymore. _These views are sensationalist at best, blatantly ignorant at worst._ Open borders with other countries supplies cheap labour--both skilled and unskilled.
 
 **The fight against immigration is one that wins votes, but rarely makes economic sense.**  The UK has been fighting net migration, trying to reduce immigration. **Being part of the EU, the UK cannot limit EU nationals from entering.** The easiest group to keep out is non-EU nationals.
 
@@ -32,7 +32,7 @@ You can find plenty of stories about a United Kingdom flooded by immigrants or a
 In 2012 UK Parliament updated immigration rules for British citizens with non-EU spouses. British citizens [must make at least £18,600/year to sponsor their partners](http://www.theguardian.com/law/2014/jul/11/appeal-court-18600-foreign-spouse-uk). This was--and still is--a controversial rule. On minimum wage, a British citizen would not earn enough to sponsor their spouse. Earning a decent wage in a poorer country excludes UK expats from returning with their families.
 
 <span id="r-1"></span>
-I am not a fan of this rule. Fortunately, my girlfriend makes enough to qualify us. (What a great moneybags girl! You should marry the pants off her!) Together, we're a great immigration candidate<sup>[1](#footnote-1)</sup> as we're both creating new jobs in the UK.
+I am not a fan of this rule. Fortunately, my girlfriend makes enough to qualify us. Together, we're great immigration candidates<sup>[1](#footnote-1)</sup> as we're both creating new jobs in the UK.
 
 ## Proof of income
 
@@ -44,13 +44,13 @@ But if you're a British citizen working outside the UK, you'll need more documen
 
 ### Self-Employment Evidence
 
-First things first: the self-employed sponsor should be able to "move" their business. _Without the intent to move the business, UK Immigration will refuse your application._ Proving this is as simple as writing it in a letter, but it's worth mentioning.
+The self-employed sponsor should be able to "move" their business. _Without the intent to move the business, UK Immigration will refuse your application._ Proving this is as simple as writing it in a letter, but it's worth mentioning.
 
-**Your British sponsor must make at least £18,600/year.** I hope your sponsor keeps good books! You'll need to prove the business makes money. Print out all bank statements for the *last two fiscal years in your country*. Then **highlight every deposit and link it to an invoice**. Afterward, find every transfer from the business account to your sponsor's personal bank account, to prove the business is paying them money (this applies regardless of business structure, so it doesn't matter if your sponsor is incorporated or a sole proprietor.)
+**Your British sponsor must make at least £18,600/year.** I hope your sponsor keeps good books! You'll need to prove the business makes money. Print out all bank statements for the *last two fiscal years in your country*. Then **highlight every deposit and link it to an invoice**. Afterward, find every transfer from the business account to your sponsor's personal bank account, to prove the business is paying them money. Even if you're a sole proprietor you'll need to do this.
 
-You must convert _any non-pound amounts to GBP_ (so that's probably all of them.) You _must_ do this at [oanda.com](http://www.oanda.com/currency/converter/). To add to the annoyance, you must use the posted exchange rate on the day the money was transferred. Have fun with that if you have lots of deposits!
+You must convert _any non-pound amounts to GBP_. You _must_ do this at [oanda.com](http://www.oanda.com/currency/converter/). To add to the annoyance, you must use the posted exchange rate on the day the money was transferred. Have fun with that if you have lots of deposits!
 
-Finally, make sure to include the business's registration papers.
+Finally, make sure to include the business's registration papers. Seal the envelope with a drop of your blood.
 
 ### The hard part is over
 
@@ -81,10 +81,6 @@ _The limits set by the UK are roadblocks, not true barriers._ There are [ways ar
 We spent a *lot* of money on a visa (£1,865). It was a lot of red tape, a stressful situation, and a grueling wait.
 
 I hope the UK changes the rules on family settlement visas soon. They are, at the very least, counter to the spirit of the European Union's borders and family permits. And as frustrating as the process was for us, I can't imagine how horrible it would be to be refused.
-
-## More to come 
-
-I can't find a lot of straightforward, first-hand accounts of moving to the UK from Canada. Especially not recent ones. I plan on writing more about shipping my motorcycle, moving furniture, and other minutiae. I'll try to recommend good companies along the way, as I did with 1st Contact.
 
 ---
 
